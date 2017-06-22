@@ -1,0 +1,916 @@
+0;Miasto;Powiat;Województwo;Populacja;Obszar
+1;Warszawa;Warszawa;mazowieckie;1 724 404;517 km?
+2;Kraków;Kraków;ma³opolskie;758 992;327 km?
+3;£ódŸ;£ódŸ;³ódzkie;711 332;293 km?
+4;Wroc³aw;Wroc³aw;dolnoœl¹skie;632 067;293 km?
+5;Poznañ;Poznañ;wielkopolskie;548 028;262 km?
+6;Gdañsk;Gdañsk;pomorskie;461 531;262 km?
+7;Szczecin;Szczecin;zachodniopomorskie;408 172;301 km?
+8;Bydgoszcz;Bydgoszcz;kujawsko-pomorskie;359 428;176 km?
+9;Lublin;Lublin;lubelskie;343 598;147 km?
+10;Katowice;Katowice;œl¹skie;304 362;165 km?
+11;Bia³ystok;Bia³ystok;podlaskie;295 282;102 km?
+12;Gdynia;Gdynia;pomorskie;248 042;135 km?
+13;Czêstochowa;Czêstochowa;œl¹skie;232 318;160 km?
+14;Radom;Radom;mazowieckie;218 466;112 km?
+15;Sosnowiec;Sosnowiec;œl¹skie;211 275;91 km?
+16;Toruñ;Toruñ;kujawsko-pomorskie;203 447;116 km?
+17;Kielce;Kielce;œwiêtokrzyskie;199 870;110 km?
+18;Gliwice;Gliwice;œl¹skie;185 450;134 km?
+19;Rzeszów;Rzeszów;podkarpackie;183 108;117 km?
+20;Zabrze;Zabrze;œl¹skie;178 357;80 km?
+21;Olsztyn;Olsztyn;warmiñsko-mazurskie;174 675;88 km?
+22;Bielsko-Bia³a;Bielsko-Bia³a;œl¹skie;173 699;125 km?
+23;Bytom;Bytom;œl¹skie;173 439;69 km?
+24;Ruda Œl¹ska;Ruda Œl¹ska;œl¹skie;141 521;78 km?
+25;Rybnik;Rybnik;œl¹skie;140 173;148 km?
+26;Tychy;Tychy;œl¹skie;128 799;82 km?
+27;Gorzów Wielkopolski;Gorzów Wielkopolski;lubuskie;124 344;86 km?
+28;D¹browa Górnicza;D¹browa Górnicza;œl¹skie;123 994;189 km?
+29;Elbl¹g;Elbl¹g;warmiñsko-mazurskie;122 899;80 km?
+30;P³ock;P³ock;mazowieckie;122 815;88 km?
+31;Opole;Opole;opolskie;120 146;97 km?
+32;Zielona Góra;Zielona Góra;lubuskie;118 405;58 km?
+33;Wa³brzych;Wa³brzych;dolnoœl¹skie;117 926;85 km?
+34;W³oc³awek;W³oc³awek;kujawsko-pomorskie;114 885;84 km?
+35;Tarnów;Tarnów;ma³opolskie;112 120;72 km?
+36;Chorzów;Chorzów;œl¹skie;110 761;33 km?
+37;Koszalin;Koszalin;zachodniopomorskie;109 170;98 km?
+38;Kalisz;Kalisz;wielkopolskie;103 997;69 km?
+39;Legnica;Legnica;dolnoœl¹skie;101 992;56 km?
+40;Grudzi¹dz;Grudzi¹dz;kujawsko-pomorskie;97 676;58 km?
+41;S³upsk;S³upsk;pomorskie;93 936;43 km?
+42;Jaworzno;Jaworzno;œl¹skie;93 708;153 km?
+43;Jastrzêbie-Zdrój;Jastrzêbie-Zdrój;œl¹skie;91 235;85 km?
+44;Nowy S¹cz;Nowy S¹cz;ma³opolskie;83 943;58 km?
+45;Jelenia Góra;Jelenia Góra;dolnoœl¹skie;81 985;109 km?
+46;Konin;Konin;wielkopolskie;77 224;82 km?
+47;Siedlce;Siedlce;mazowieckie;76 347;32 km?
+48;Piotrków Trybunalski;Piotrków Trybunalski;³ódzkie;75 903;67 km?
+49;Mys³owice;Mys³owice;œl¹skie;75 129;66 km?
+50;Inowroc³aw;inowroc³awski;kujawsko-pomorskie;75 001;30 km?
+51;Pi³a;pilski;wielkopolskie;74 609;103 km?
+52;Lubin;lubiñski;dolnoœl¹skie;74 053;41 km?
+53;Ostrów Wielkopolski;ostrowski;wielkopolskie;72 890;42 km?
+54;Ostrowiec Œwiêtokrzyski;ostrowiecki;œwiêtokrzyskie;72 277;46 km?
+55;Gniezno;gnieŸnieñski;wielkopolskie;69 883;41 km?
+56;Stargard Szczeciñski;stargardzki;zachodniopomorskie;69 328;48 km?
+57;Suwa³ki;Suwa³ki;podlaskie;69 317;66 km?
+58;G³ogów;g³ogowski;dolnoœl¹skie;68 997;35 km?
+59;Siemianowice Œl¹skie;Siemianowice Œl¹skie;œl¹skie;68 844;25 km?
+60;Pabianice;pabianicki;³ódzkie;67 688;33 km?
+61;Che³m;Che³m;lubelskie;65 481;35 km?
+62;Zamoœæ;Zamoœæ;lubelskie;65 255;30 km?
+63;Tomaszów Mazowiecki;tomaszowski;³ódzkie;64 893;42 km?
+64;Leszno;Leszno;wielkopolskie;64 589;32 km?
+65;Stalowa Wola;stalowowolski;podkarpackie;63 692;83 km?
+66;Przemyœl;Przemyœl;podkarpackie;63 638;46 km?
+67;Kêdzierzyn-KoŸle;kêdzierzyñsko-kozielski;opolskie;63 194;124 km?
+68;£om¿a;£om¿a;podlaskie;62 711;33 km?
+69;¯ory;¯ory;œl¹skie;62 038;65 km?
+70;Mielec;mielecki;podkarpackie;61 096;47 km?
+71;Tarnowskie Góry;tarnogórski;œl¹skie;60 957;84 km?
+72;Tczew;tczewski;pomorskie;60 610;22 km?
+73;E³k;e³cki;warmiñsko-mazurskie;59 790;21 km?
+74;Pruszków;pruszkowski;mazowieckie;59 570;19 km?
+75;Be³chatów;be³chatowski;³ódzkie;59 565;35 km?
+76;Œwidnica;œwidnicki;dolnoœl¹skie;59 182;22 km?
+77;Bêdzin;bêdziñski;œl¹skie;58 425;37 km?
+78;Bia³a Podlaska;Bia³a Podlaska;lubelskie;57 658;49 km?
+79;Zgierz;zgierski;³ódzkie;57 503;42 km?
+80;Piekary Œl¹skie;Piekary Œl¹skie;œl¹skie;57 148;40 km?
+81;Racibórz;raciborski;œl¹skie;55 930;75 km?
+82;Legionowo;legionowski;mazowieckie;54 231;14 km?
+83;Ostro³êka;Ostro³êka;mazowieckie;52 917;29 km?
+84;Œwiêtoch³owice;Œwiêtoch³owice;œl¹skie;51 824;13 km?
+85;Zawiercie;zawierciañski;œl¹skie;51 258;85 km?
+86;Starachowice;starachowicki;œwiêtokrzyskie;51 158;32 km?
+87;Wejherowo;wejherowski;pomorskie;50 340;27 km?
+88;Pu³awy;pu³awski;lubelskie;49 100;50 km?
+89;Wodzis³aw Œl¹ski;wodzis³awski;œl¹skie;48 731;50 km?
+90;Skierniewice;Skierniewice;³ódzkie;48 634;35 km?
+91;Starogard Gdañski;starogardzki;pomorskie;48 621;25 km?
+92;Tarnobrzeg;Tarnobrzeg;podkarpackie;48 217;85 km?
+93;Radomsko;radomszczañski;³ódzkie;47 643;51 km?
+94;Skar¿ysko-Kamienna;skar¿yski;œwiêtokrzyskie;47 538;64 km?
+95;Rumia;wejherowski;pomorskie;47 374;30 km?
+96;Krosno;Krosno;podkarpackie;47 223;44 km?
+97;Ko³obrzeg;ko³obrzeski;zachodniopomorskie;46 897;26 km?
+98;Dêbica;dêbicki;podkarpackie;46 854;34 km?
+99;Kutno;kutnowski;³ódzkie;45 657;34 km?
+100;Otwock;otwocki;mazowieckie;45 044;47 km?
+101;Nysa;nyski;opolskie;44 899;27,5 km?
+102;Piaseczno;piaseczyñski;mazowieckie;44 869;16,2 km?
+103;Ciechanów;ciechanowski;mazowieckie;44 797;33 km?
+104;Zduñska Wola;zduñskowolski;³ódzkie;43 615;25 km?
+105;Sieradz;sieradzki;³ódzkie;43 356;51 km?
+106;Œwinoujœcie;Œwinoujœcie;zachodniopomorskie;41 371;197 km?
+107;¯yrardów;¿yrardowski;mazowieckie;41 096;14 km?
+108;Szczecinek;szczecinecki;zachodniopomorskie;40 620;48 km?
+109;Chojnice;chojnicki;pomorskie;40 226;21 km?
+110;Œwidnik;œwidnicki;lubelskie;40 225;20 km?
+111;Miñsk Mazowiecki;miñski;mazowieckie;39 880;13 km?
+112;Miko³ów;miko³owski;œl¹skie;39 776;79 km?
+113;Nowa Sól;nowosolski;lubuskie;39 721;22 km?
+114;Oœwiêcim;oœwiêcimski;ma³opolskie;39 664;30 km?
+115;Boles³awiec;boles³awiecki;dolnoœl¹skie;39 603;24 km?
+116;Jaros³aw;jaros³awski;podkarpackie;39 138;35 km?
+117;Knurów;gliwicki;œl¹skie;39 090;34 km?
+118;Sanok;sanocki;podkarpackie;39 027;38 km?
+119;Malbork;malborski;pomorskie;39 022;17 km?
+120;Kwidzyn;kwidzyñski;pomorskie;38 867;22 km?
+121;¯ary;¿arski;lubuskie;38 856;33 km?
+122;Chrzanów;chrzanowski;ma³opolskie;38 117;38,3 km?
+123;Sopot;Sopot;pomorskie;37 903;17 km?
+124;Wo³omin;wo³omiñski;mazowieckie;37 505;17,2 km?
+125;Sochaczew;sochaczewski;mazowieckie;37 480;26 km?
+126;Oleœnica;oleœnicki;dolnoœl¹skie;37 303;21 km?
+127;Brzeg;brzeski;opolskie;36 980;15 km?
+128;Olkusz;olkuski;ma³opolskie;36 724;25,7 km?
+129;Jas³o;jasielski;podkarpackie;36 363;37 km?
+130;Cieszyn;cieszyñski;œl¹skie;35 918;29 km?
+131;Kraœnik;kraœnicki;lubelskie;35 788;26 km?
+132;Czechowice-Dziedzice;bielski;œl¹skie;35 684;32,9 km?
+133;Lêbork;lêborski;pomorskie;35 526;18 km?
+134;Dzier¿oniów;dzier¿oniowski;dolnoœl¹skie;34 428;20 km?
+135;Ostróda;ostródzki;warmiñsko-mazurskie;33 963;14 km?
+136;Nowy Targ;nowotarski;ma³opolskie;33 672;51 km?
+137;Police;policki;zachodniopomorskie;33 625;37,3 km?
+138;I³awa;i³awski;warmiñsko-mazurskie;33 338;22 km?
+139;CzeladŸ;bêdziñski;œl¹skie;32 940;16 km?
+140;Myszków;myszkowski;œl¹skie;32 619;74 km?
+141;O³awa;o³awski;dolnoœl¹skie;32 240;27 km?
+142;¯ywiec;¿ywiecki;œl¹skie;32 083;51 km?
+143;Zgorzelec;zgorzelecki;dolnoœl¹skie;31 890;16 km?
+144;Z¹bki;wo³omiñski;mazowieckie;31 884;11 km?
+145;Bielawa;dzier¿oniowski;dolnoœl¹skie;31 186;36 km?
+146;Swarzêdz;poznañski;wielkopolskie;31 084;8,2 km?
+147;M³awa;m³awski;mazowieckie;30 880;35 km?
+148;£uków;³ukowski;lubelskie;30 757;36 km?
+149;Luboñ;poznañski;wielkopolskie;30 676;14 km?
+150;Augustów;augustowski;podlaskie;30 610;81 km?
+151;Bochnia;bocheñski;ma³opolskie;30 219;30 km?
+152;Œrem;œremski;wielkopolskie;30 152;12,4 km?
+153;Gi¿ycko;gi¿ycki;warmiñsko-mazurskie;29 947;14 km?
+154;Grodzisk Mazowiecki;grodziski;mazowieckie;29 907;13,2 km?
+155;Wrzeœnia;wrzesiñski;wielkopolskie;29 552;12,7 km?
+156;£owicz;³owicki;³ódzkie;29 420;23 km?
+157;Krotoszyn;krotoszyñski;wielkopolskie;29 397;22,5 km?
+158;Marki;wo³omiñski;mazowieckie;29 032;26 km?
+159;Pruszcz Gdañski;gdañski;pomorskie;28 858;16 km?
+160;Brodnica;brodnicki;kujawsko-pomorskie;28 579;23 km?
+161;Czerwionka-Leszczyny;rybnicki;œl¹skie;28 480;37,6 km?
+162;Gorlice;gorlicki;ma³opolskie;28 415;24 km?
+163;Nowy Dwór Mazowiecki;nowodworski;mazowieckie;28 287;28 km?
+164;Turek;turecki;wielkopolskie;28 100;16 km?
+165;Kêtrzyn;kêtrzyñski;warmiñsko-mazurskie;28 051;10 km?
+166;K³odzko;k³odzki;dolnoœl¹skie;27 997;25 km?
+167;Zakopane;tatrzañski;ma³opolskie;27 721;84 km?
+168;Wyszków;wyszkowski;mazowieckie;27 222;20,8 km?
+169;Bi³goraj;bi³gorajski;lubelskie;27 169;21 km?
+170;¯agañ;¿agañski;lubuskie;26 492;40 km?
+171;Œwiecie;œwiecki;kujawsko-pomorskie;26 395;11,9 km?
+172;Bielsk Podlaski;bielski;podlaskie;26 336;27 km?
+173;Jarocin;jarociñski;wielkopolskie;26 311;14,6 km?
+174;Wa³cz;wa³ecki;zachodniopomorskie;26 231;38 km?
+175;Pszczyna;pszczyñski;œl¹skie;25 999;22,5 km?
+176;W¹growiec;w¹growiecki;wielkopolskie;25 178;18 km?
+177;Bia³ogard;bia³ogardzki;zachodniopomorskie;24 722;26 km?
+178;Sandomierz;sandomierski;œwiêtokrzyskie;24 552;29 km?
+179;Kluczbork;kluczborski;opolskie;24 544;12,4 km?
+180;Bartoszyce;bartoszycki;warmiñsko-mazurskie;24 527;11 km?
+181;Szczytno;szczycieñski;warmiñsko-mazurskie;24 489;11 km?
+182;Lubliniec;lubliniecki;œl¹skie;24 316;89 km?
+183;Skawina;krakowski;ma³opolskie;24 260;20,5 km?
+184;Koœcian;koœciañski;wielkopolskie;24 011;9 km?
+185;Jawor;jaworski;dolnoœl¹skie;23 937;19 km?
+186;Koœcierzyna;koœcierski;pomorskie;23 701;16 km?
+187;Wieluñ;wieluñski;³ódzkie;23 546;16,9 km?
+188;Nowa Ruda;k³odzki;dolnoœl¹skie;23 236;37 km?
+189;Œwiebodzice;œwidnicki;dolnoœl¹skie;23 152;30 km?
+190;Reda;wejherowski;pomorskie;23 135;34 km?
+191;Ko³o;kolski;wielkopolskie;23 026;14 km?
+192;Piastów;pruszkowski;mazowieckie;22 826;6 km?
+193;Ostrów Mazowiecka;ostrowski;mazowieckie;22 796;22 km?
+194;Goleniów;goleniowski;zachodniopomorskie;22 776;11,8 km?
+195;Polkowice;polkowicki;dolnoœl¹skie;22 638;23,7 km?
+196;Œroda Wielkopolska;œredzki;wielkopolskie;22 572;18 km?
+197;Lubartów;lubartowski;lubelskie;22 543;14 km?
+198;P³oñsk;p³oñski;mazowieckie;22 494;12 km?
+199;£aziska Górne;miko³owski;œl¹skie;22 460;20 km?
+200;Zambrów;zambrowski;podlaskie;22 451;19 km?
+201;Grajewo;grajewski;podlaskie;22 246;19 km?
+202;Mr¹gowo;mr¹gowski;warmiñsko-mazurskie;22 190;15 km?
+203;Opoczno;opoczyñski;³ódzkie;22 188;24,8 km?
+204;Œwiebodzin;œwiebodziñski;lubuskie;22 064;16,9 km?
+205;Lubañ;lubañski;dolnoœl¹skie;21 921;16 km?
+206;Rydu³towy;wodzis³awski;œl¹skie;21 847;15 km?
+207;Prudnik;prudnicki;opolskie;21 778;20,5 km?
+208;Gryfino;gryfiñski;zachodniopomorskie;21 578;9,6 km?
+209;Hajnówka;hajnowski;podlaskie;21 559;21 km?
+210;Dzia³dowo;dzia³dowski;warmiñsko-mazurskie;21 552;11 km?
+211;Wieliczka;wielicki;ma³opolskie;21 318;13,4 km?
+212;Aleksandrów £ódzki;zgierski;³ódzkie;21 245;13,8 km?
+213;Andrychów;wadowicki;ma³opolskie;21 111;10,3 km?
+214;Koby³ka;wo³omiñski;mazowieckie;20 855;20 km?
+215;Rawicz;rawicki;wielkopolskie;20 846;7,7 km?
+216;Che³mno;che³miñski;kujawsko-pomorskie;20 622;14 km?
+217;Trzebinia;chrzanowski;ma³opolskie;20 302;31,9 km?
+218;Koñskie;konecki;œwiêtokrzyskie;20 281;17,7 km?
+219;Gostyñ;gostyñski;wielkopolskie;20 183;11,1 km?
+220;Ozorków;zgierski;³ódzkie;20 175;15 km?
+221;Kamienna Góra;kamiennogórski;dolnoœl¹skie;20 014;18 km?
+222;Orzesze;miko³owski;œl¹skie;20 000;84 km?
+223;Tomaszów Lubelski;tomaszowski;lubelskie;19 983;13 km?
+224;£êczna;³êczyñski;lubelskie;19 926;19 km?
+225;Józefów;otwocki;mazowieckie;19 914;24 km?
+226;Bieruñ;bieruñsko-lêdziñski;œl¹skie;19 696;40 km?
+227;Krasnystaw;krasnostawski;lubelskie;19 539;42 km?
+228;Pisz;piski;warmiñsko-mazurskie;19 530;10,1 km?
+229;Chodzie¿;chodzieski;wielkopolskie;19 399;13 km?
+230;Pionki;radomski;mazowieckie;19 382;18 km?
+231;Sulejówek;miñski;mazowieckie;19 311;19 km?
+232;Wadowice;wadowicki;ma³opolskie;19 309;10,5 km?
+233;Pu³tusk;pu³tuski;mazowieckie;19 228;23 km?
+234;Nak³o nad Noteci¹;nakielski;kujawsko-pomorskie;19 193;10,6 km?
+235;Kêty;oœwiêcimski;ma³opolskie;19 104;23,1 km?
+236;Gostynin;gostyniñski;mazowieckie;19 092;32 km?
+237;Szamotu³y;szamotulski;wielkopolskie;19 020;11,1 km?
+238;Sokó³ka;sokólski;podlaskie;18 765;18,6 km?
+239;Soko³ów Podlaski;soko³owski;mazowieckie;18 720;18 km?
+240;Pyskowice;gliwicki;œl¹skie;18 642;31 km?
+241;Z³otów;z³otowski;wielkopolskie;18 593;12 km?
+242;Hrubieszów;hrubieszowski;lubelskie;18 585;33 km?
+243;Miêdzyrzecz;miêdzyrzecki;lubuskie;18 552;10,3 km?
+244;Sierpc;sierpecki;mazowieckie;18 491;19 km?
+245;Bogatynia;zgorzelecki;dolnoœl¹skie;18 486;59,9 km?
+246;Strzelce Opolskie;strzelecki;opolskie;18 451;30 km?
+247;Oborniki;obornicki;wielkopolskie;18 421;14,1 km?
+248;Myœlenice;myœlenicki;ma³opolskie;18 365;30,2 km?
+249;Kozienice;kozienicki;mazowieckie;18 277;10,5 km?
+250;Kostrzyn nad Odr¹;gorzowski;lubuskie;18 155;46 km?
+251;£añcut;³añcucki;podkarpackie;18 074;19 km?
+252;£ask;³aski;³ódzkie;18 029;15,7 km?
+253;Radlin;wodzis³awski;œl¹skie;17 984;13 km?
+254;Rawa Mazowiecka;rawski;³ódzkie;17 819;14 km?
+255;Konstantynów £ódzki;pabianicki;³ódzkie;17 804;27 km?
+256;Pleszew;pleszewski;wielkopolskie;17 759;13,4 km?
+257;Sulechów;zielonogórski;lubuskie;17 461;6,9 km?
+258;Zielonka;wo³omiñski;mazowieckie;17 398;79 km?
+259;Konstancin-Jeziorna;piaseczyñski;mazowieckie;17 391;17,7 km?
+260;Braniewo;braniewski;warmiñsko-mazurskie;17 385;12 km?
+261;Libi¹¿;chrzanowski;ma³opolskie;17 355;35,9 km?
+262;Przasnysz;przasnyski;mazowieckie;17 326;25 km?
+263;Trzcianka;czarnkowsko-trzcianecki;wielkopolskie;17 301;18,3 km?
+264;Garwolin;garwoliñski;mazowieckie;17 146;22 km?
+265;Miêdzyrzec Podlaski;bialski;lubelskie;17 117;21 km?
+266;Brzesko;brzeski;ma³opolskie;17 097;11,8 km?
+267;Dêblin;rycki;lubelskie;17 057;38 km?
+268;Radzionków;tarnogórski;œl¹skie;17 025;13 km?
+269;Gubin;kroœnieñski;lubuskie;17 006;21 km?
+270;Nowogard;goleniowski;zachodniopomorskie;16 937;12,4 km?
+271;Krapkowice;krapkowicki;opolskie;16 924;21 km?
+272;Gryfice;gryficki;zachodniopomorskie;16 898;12,4 km?
+273;S³ubice;s³ubicki;lubuskie;16 880;19,2 km?
+274;Bytów;bytowski;pomorskie;16 842;8,7 km?
+275;Rypin;rypiñski;kujawsko-pomorskie;16 834;10 km?
+276;Strzegom;œwidnicki;dolnoœl¹skie;16 769;20,5 km?
+277;Lêdziny;bieruñsko-lêdziñski;œl¹skie;16 737;32 km?
+278;Busko-Zdrój;buski;œwiêtokrzyskie;16 694;12,3 km?
+279;£omianki;warszawski zachodni;mazowieckie;16 639;8,4 km?
+280;Olecko;olecki;warmiñsko-mazurskie;16 533;11,5 km?
+281;Grójec;grójecki;mazowieckie;16 453;8,6 km?
+282;Milanówek;grodziski;mazowieckie;16 410;13 km?
+283;Lidzbark Warmiñski;lidzbarski;warmiñsko-mazurskie;16 352;14 km?
+284;Ustka;s³upski;pomorskie;16 263;10 km?
+285;Boguszów-Gorce;wa³brzyski;dolnoœl¹skie;16 216;27 km?
+286;Radzyñ Podlaski;radzyñski;lubelskie;16 188;19 km?
+287;Z³otoryja;z³otoryjski;dolnoœl¹skie;16 167;12 km?
+288;Namys³ów;namys³owski;opolskie;16 123;22,6 km?
+289;£apy;bia³ostocki;podlaskie;16 005;12,1 km?
+290;Ustroñ;cieszyñski;œl¹skie;16 003;59 km?
+291;Jelcz-Laskowice;o³awski;dolnoœl¹skie;15 959;17,1 km?
+292;Jêdrzejów;jêdrzejowski;œwiêtokrzyskie;15 851;11,4 km?
+293;Przeworsk;przeworski;podkarpackie;15 779;22 km?
+294;Œwidwin;œwidwiñski;zachodniopomorskie;15 725;22 km?
+295;Choszczno;choszczeñski;zachodniopomorskie;15 716;9,6 km?
+296;Z¹bkowice Œl¹skie;z¹bkowicki;dolnoœl¹skie;15 707;13,7 km?
+297;Ropczyce;ropczycko-sêdziszowski;podkarpackie;15 683;47,1 km?
+298;Solec Kujawski;bydgoski;kujawsko-pomorskie;15 642;18,7 km?
+299;Nisko;ni¿añski;podkarpackie;15 484;61 km?
+300;Staszów;staszowski;œwiêtokrzyskie;15 384;26,9 km?
+301;Limanowa;limanowski;ma³opolskie;15 133;19 km?
+302;Lipno;lipnowski;kujawsko-pomorskie;14 968;11 km?
+303;Che³m¿a;toruñski;kujawsko-pomorskie;14 967;7 km?
+304;Nowy Tomyœl;nowotomyski;wielkopolskie;14 899;5,2 km?
+305;Kartuzy;kartuski;pomorskie;14 866;6,8 km?
+306;G³owno;zgierski;³ódzkie;14 814;20 km?
+307;£êczyca;³êczycki;³ódzkie;14 786;9 km?
+308;Siemiatycze;siemiatycki;podlaskie;14 766;36 km?
+309;Skoczów;cieszyñski;œl¹skie;14 741;9,9 km?
+310;Kêpno;kêpiñski;wielkopolskie;14 577;7,8 km?
+311;Lubsko;¿arski;lubuskie;14 554;12,5 km?
+312;Ostrzeszów;ostrzeszowski;wielkopolskie;14 515;12,1 km?
+313;Cz³uchów;cz³uchowski;pomorskie;14 385;13 km?
+314;Le¿ajsk;le¿ajski;podkarpackie;14 363;21 km?
+315;Mor¹g;ostródzki;warmiñsko-mazurskie;14 361;6,1 km?
+316;Grodzisk Wielkopolski;grodziski;wielkopolskie;14 339;18,2 km?
+317;Wschowa;wschowski;lubuskie;14 313;8,4 km?
+318;Nidzica;nidzicki;warmiñsko-mazurskie;14 300;6,9 km?
+319;Barlinek;myœliborski;zachodniopomorskie;14 263;17,6 km?
+320;G³ucho³azy;nyski;opolskie;14 257;6,8 km?
+321;Pszów;wodzis³awski;œl¹skie;14 252;20 km?
+322;Dar³owo;s³awieñski;zachodniopomorskie;14 229;20 km?
+323;¯nin;¿niñski;kujawsko-pomorskie;14 181;8,4 km?
+324;Chojnów;legnicki;dolnoœl¹skie;14 071;5 km?
+325;Dêbno;myœliborski;zachodniopomorskie;14 043;19,5 km?
+326;W¹brzeŸno;w¹brzeski;kujawsko-pomorskie;14 040;9 km?
+327;S³upca;s³upecki;wielkopolskie;14 019;10 km?
+328;Tuchola;tucholski;kujawsko-pomorskie;13 949;17,7 km?
+329;Go³dap;go³dapski;warmiñsko-mazurskie;13 808;17,2 km?
+330;W³odawa;w³odawski;lubelskie;13 643;18 km?
+331;Wolsztyn;wolsztyñski;wielkopolskie;13 586;4,8 km?
+332;Koluszki;³ódzki wschodni;³ódzkie;13 419;9,9 km?
+333;K³obuck;k³obucki;œl¹skie;13 246;47,5 km?
+334;Z³ocieniec;drawski;zachodniopomorskie;13 224;32,3 km?
+335;Rabka-Zdrój;nowotarski;ma³opolskie;13 154;36,3 km?
+336;Brwinów;pruszkowski;mazowieckie;13 090;10,1 km?
+337;Mosina;poznañski;wielkopolskie;13 065;13,5 km?
+338;G³ubczyce;g³ubczycki;opolskie;12 990;12,5 km?
+339;Trzebnica;trzebnicki;dolnoœl¹skie;12 945;8,4 km?
+340;Golub-Dobrzyñ;golubsko-dobrzyñski;kujawsko-pomorskie;12 945;8 km?
+341;S³awno;s³awieñski;zachodniopomorskie;12 898;16 km?
+342;Pyrzyce;pyrzycki;zachodniopomorskie;12 816;38,8 km?
+343;Wêgrów;wêgrowski;mazowieckie;12 796;36 km?
+344;Wo³ów;wo³owski;dolnoœl¹skie;12 646;18,5 km?
+345;Brzeziny;brzeziñski;³ódzkie;12 577;22 km?
+346;B³onie;warszawski zachodni;mazowieckie;12 570;9,1 km?
+347;Strzelin;strzeliñski;dolnoœl¹skie;12 556;10,3 km?
+348;Brzeg Dolny;wo³owski;dolnoœl¹skie;12 536;17,2 km?
+349;Lubaczów;lubaczowski;podkarpackie;12 517;26 km?
+350;Aleksandrów Kujawski;aleksandrowski;kujawsko-pomorskie;12 515;7 km?
+351;Pas³êk;elbl¹ski;warmiñsko-mazurskie;12 453;10,6 km?
+352;Góra;górowski;dolnoœl¹skie;12 403;13,7 km?
+353;Mogilno;mogileñski;kujawsko-pomorskie;12 369;8,3 km?
+354;Szprotawa;¿agañski;lubuskie;12 329;11 km?
+355;Janów Lubelski;janowski;lubelskie;12 092;14,8 km?
+356;Szyd³owiec;szyd³owiecki;mazowieckie;12 064;21,9 km?
+357;Krosno Odrzañskie;kroœnieñski;lubuskie;11 983;8,2 km?
+358;Zdzieszowice;krapkowicki;opolskie;11 978;12,4 km?
+359;Drawsko Pomorskie;drawski;zachodniopomorskie;11 878;22,3 km?
+360;D¹browa Tarnowska;d¹browski;ma³opolskie;11 846;23,1 km?
+361;Miechów;miechowski;ma³opolskie;11 832;15,5 km?
+362;Milicz;milicki;dolnoœl¹skie;11 758;13,5 km?
+363;Warka;grójecki;mazowieckie;11 727;26,8 km?
+364;Wêgorzewo;wêgorzewski;warmiñsko-mazurskie;11 699;10,9 km?
+365;Góra Kalwaria;piaseczyñski;mazowieckie;11 685;13,7 km?
+366;Brzeszcze;oœwiêcimski;ma³opolskie;11 637;19 km?
+367;Myœlibórz;myœliborski;zachodniopomorskie;11 614;15 km?
+368;Wronki;szamotulski;wielkopolskie;11 549;5,8 km?
+369;Kowary;jeleniogórski;dolnoœl¹skie;11 537;37 km?
+370;Nowa Dêba;tarnobrzeski;podkarpackie;11 507;16,7 km?
+371;Puck;pucki;pomorskie;11 396;5 km?
+372;Koronowo;bydgoski;kujawsko-pomorskie;11 384;28,2 km?
+373;Radzymin;wo³omiñski;mazowieckie;11 378;23,4 km?
+374;RogoŸno;obornicki;wielkopolskie;11 309;11,2 km?
+375;Piñczów;piñczowski;œwiêtokrzyskie;11 306;14,3 km?
+376;Wis³a;cieszyñski;œl¹skie;11 261;109 km?
+377;Czarnków;czarnkowsko-trzcianecki;wielkopolskie;11 256;10 km?
+378;Nowe Miasto Lubawskie;nowomiejski;warmiñsko-mazurskie;11 241;11 km?
+379;Krynica-Zdrój;nowos¹decki;ma³opolskie;11 165;39,7 km?
+380;Parczew;parczewski;lubelskie;10 953;8,1 km?
+381;Miastko;bytowski;pomorskie;10 926;5,7 km?
+382;Niepo³omice;wielicki;ma³opolskie;10 822;27,4 km?
+383;Miêdzychód;miêdzychodzki;wielkopolskie;10 805;7 km?
+384;Ciechocinek;aleksandrowski;kujawsko-pomorskie;10 791;15 km?
+385;Biskupiec;olsztyñski;warmiñsko-mazurskie;10 626;5 km?
+386;Dobre Miasto;olsztyñski;warmiñsko-mazurskie;10 599;4,9 km?
+387;Kolno;kolneñski;podlaskie;10 579;25 km?
+388;O¿arów Mazowiecki;warszawski zachodni;mazowieckie;10 561;5,7 km?
+389;W³oszczowa;w³oszczowski;œwiêtokrzyskie;10 545;30,3 km?
+390;Wasilków;bia³ostocki;podlaskie;10 511;28,3 km?
+391;Bystrzyca K³odzka;k³odzki;dolnoœl¹skie;10 476;10,7 km?
+392;Drezdenko;strzelecko-drezdenecki;lubuskie;10 447;10,7 km?
+393;£obez;³obeski;zachodniopomorskie;10 438;12,8 km?
+394;Bukowno;olkuski;ma³opolskie;10 411;65 km?
+395;Murowana Goœlina;poznañski;wielkopolskie;10 386;7,2 km?
+396;Syców;oleœnicki;dolnoœl¹skie;10 385;17,1 km?
+397;Moñki;moniecki;podlaskie;10 352;7,7 km?
+398;Sztum;sztumski;pomorskie;10 332;4,6 km?
+399;Krzeszowice;krakowski;ma³opolskie;10 268;17 km?
+400;Sulêcin;sulêciñski;lubuskie;10 265;8,6 km?
+401;Kudowa-Zdrój;k³odzki;dolnoœl¹skie;10 241;34 km?
+402;Trzebiatów;gryficki;zachodniopomorskie;10 202;10,3 km?
+403;Strzelce Krajeñskie;strzelecko-drezdenecki;lubuskie;10 172;5,5 km?
+404;Karczew;otwocki;mazowieckie;10 160;28,1 km?
+405;Maków Mazowiecki;makowski;mazowieckie;10 118;10 km?
+406;Lubawa;i³awski;warmiñsko-mazurskie;10 093;17 km?
+407;Nowy Dwór Gdañski;nowodworski;pomorskie;10 083;5,1 km?
+408;Czersk;chojnicki;pomorskie;10 043;9,7 km?
+409;Ryki;rycki;lubelskie;9 955;27,2 km?
+410;Skwierzyna;miêdzyrzecki;lubuskie;9 869;35,9 km?
+411;Blachownia;czêstochowski;œl¹skie;9 839;36,7 km?
+412;Puszczykowo;poznañski;wielkopolskie;9 819;16 km?
+413;Ko¿uchów;nowosolski;lubuskie;9 752;5,9 km?
+414;Czarna Bia³ostocka;bia³ostocki;podlaskie;9 671;14,3 km?
+415;Poniatowa;opolski;lubelskie;9 646;15,3 km?
+416;Pieszyce;dzier¿oniowski;dolnoœl¹skie;9 626;64 km?
+417;Olesno;oleski;opolskie;9 597;15,1 km?
+418;Opalenica;nowotomyski;wielkopolskie;9 591;6,4 km?
+419;Szubin;nakielski;kujawsko-pomorskie;9 580;7,7 km?
+420;Wysokie Mazowieckie;wysokomazowiecki;podlaskie;9 503;15 km?
+421;Kostrzyn;poznañski;wielkopolskie;9 492;8 km?
+422;Sucha Beskidzka;suski;ma³opolskie;9 485;28 km?
+423;Ustrzyki Dolne;bieszczadzki;podkarpackie;9 445;16,8 km?
+424;Sêpólno Krajeñskie;sêpoleñski;kujawsko-pomorskie;9 368;6,6 km?
+425;Kolbuszowa;kolbuszowski;podkarpackie;9 329;7,9 km?
+426;Œroda Œl¹ska;œredzki;dolnoœl¹skie;9 317;14,9 km?
+427;Lwówek Œl¹ski;lwówecki;dolnoœl¹skie;9 271;16,7 km?
+428;Ozimek;opolski;opolskie;9 218;3,3 km?
+429;Che³mek;oœwiêcimski;ma³opolskie;9 168;8,3 km?
+430;Kruszwica;inowroc³awski;kujawsko-pomorskie;9 128;6,6 km?
+431;Ziêbice;z¹bkowicki;dolnoœl¹skie;9 117;15,1 km?
+432;Stary S¹cz;nowos¹decki;ma³opolskie;9 107;15 km?
+433;Wojkowice;bêdziñski;œl¹skie;9 107;13 km?
+434;Janikowo;inowroc³awski;kujawsko-pomorskie;9 079;9,5 km?
+435;Kamieñ Pomorski;kamieñski;zachodniopomorskie;9 070;10,7 km?
+436;Orneta;lidzbarski;warmiñsko-mazurskie;9 046;9,6 km?
+437;Pobiedziska;poznañski;wielkopolskie;9 043;10,2 km?
+438;Oborniki Œl¹skie;trzebnicki;dolnoœl¹skie;9 038;14,5 km?
+439;¯uromin;¿uromiñski;mazowieckie;9 022;11,2 km?
+440;Strzy¿ów;strzy¿owski;podkarpackie;8 967;13,9 km?
+441;Wolbrom;olkuski;ma³opolskie;8 874;10,1 km?
+442;Grodków;brzeski;opolskie;8 871;9,9 km?
+443;Opole Lubelskie;opolski;lubelskie;8 860;15,1 km?
+444;Prabuty;kwidzyñski;pomorskie;8 802;7,3 km?
+445;Porêba;zawierciañski;œl¹skie;8 801;40 km?
+446;Wieruszów;wieruszowski;³ódzkie;8 723;6 km?
+447;Suchedniów;skar¿yski;œwiêtokrzyskie;8 714;59,4 km?
+448;Jastrowie;z³otowski;wielkopolskie;8 664;72,3 km?
+449;Imielin;bieruñsko-lêdziñski;œl¹skie;8 621;28 km?
+450;Kalety;tarnogórski;œl¹skie;8 607;76 km?
+451;¯ychlin;kutnowski;³ódzkie;8 576;8,7 km?
+452;Po³czyn-Zdrój;œwidwiñski;zachodniopomorskie;8 444;7,2 km?
+453;Po³aniec;staszowski;œwiêtokrzyskie;8 347;17,4 km?
+454;Pelplin;tczewski;pomorskie;8 254;4,4 km?
+455;Chocianów;polkowicki;dolnoœl¹skie;8 194;9 km?
+456;Lidzbark;dzia³dowski;warmiñsko-mazurskie;8 168;5,7 km?
+457;Zwoleñ;zwoleñski;mazowieckie;8 112;15,9 km?
+458;Witkowo;gnieŸnieñski;wielkopolskie;8 014;8,3 km?
+459;T³uszcz;wo³omiñski;mazowieckie;7 989;7,9 km?
+460;Pniewy;szamotulski;wielkopolskie;7 953;9,3 km?
+461;Praszka;oleski;opolskie;7 944;9,4 km?
+462;Paczków;nyski;opolskie;7 865;6,6 km?
+463;Mszana Dolna;limanowski;ma³opolskie;7 863;27 km?
+464;Trzemeszno;gnieŸnieñski;wielkopolskie;7 843;5,5 km?
+465;Zelów;be³chatowski;³ódzkie;7 833;10,8 km?
+466;Poddêbice;poddêbicki;³ódzkie;7 780;5,9 km?
+467;Barcin;¿niñski;kujawsko-pomorskie;7 752;3,7 km?
+468;Olsztynek;olsztyñski;warmiñsko-mazurskie;7 721;7,7 km?
+469;Nasielsk;nowodworski;mazowieckie;7 650;12,6 km?
+470;Zawadzkie;strzelecki;opolskie;7 605;16,5 km?
+471;Brzozów;brzozowski;podkarpackie;7 550;11,5 km?
+472;Kórnik;poznañski;wielkopolskie;7 530;6 km?
+473;Sêdziszów Ma³opolski;ropczycko-sêdziszowski;podkarpackie;7 492;10 km?
+474;Miasteczko Œl¹skie;tarnogórski;œl¹skie;7 463;68 km?
+475;Tuszyn;³ódzki wschodni;³ódzkie;7 319;23,3 km?
+476;Chojna;gryfiñski;zachodniopomorskie;7 303;12,1 km?
+477;Gniewkowo;inowroc³awski;kujawsko-pomorskie;7 293;9,2 km?
+478;Barczewo;olsztyñski;warmiñsko-mazurskie;7 265;4,6 km?
+479;Zb¹szyñ;nowotomyski;wielkopolskie;7 202;5,4 km?
+480;Czaplinek;drawski;zachodniopomorskie;7 188;13,6 km?
+481;Bia³obrzegi;bia³obrzeski;mazowieckie;7 132;7,5 km?
+482;S³awków;bêdziñski;œl¹skie;7 129;37 km?
+483;£osice;³osicki;mazowieckie;7 099;23,7 km?
+484;Skarszewy;starogardzki;pomorskie;7 082;10,8 km?
+485;£azy;zawierciañski;œl¹skie;7 047;8,6 km?
+486;Sobótka;wroc³awski;dolnoœl¹skie;6 991;32,2 km?
+487;Witnica;gorzowski;lubuskie;6 951;8,2 km?
+488;Gryfów Œl¹ski;lwówecki;dolnoœl¹skie;6 902;6,6 km?
+489;¯arów;œwidnicki;dolnoœl¹skie;6 880;7 km?
+490;Gniew;tczewski;pomorskie;6 868;6 km?
+491;Szklarska Porêba;jeleniogórski;dolnoœl¹skie;6 864;75 km?
+492;Rudnik nad Sanem;ni¿añski;podkarpackie;6 858;36,6 km?
+493;Pajêczno;pajêczañski;³ódzkie;6 811;20,2 km?
+494;£ochów;wêgrowski;mazowieckie;6 786;13,4 km?
+495;Opatów;opatowski;œwiêtokrzyskie;6 767;9,4 km?
+496;Be³¿yce;lubelski;lubelskie;6 765;23,5 km?
+497;Twardogóra;oleœnicki;dolnoœl¹skie;6 762;8,3 km?
+498;K³odawa;kolski;wielkopolskie;6 721;4,3 km?
+499;Tuchów;tarnowski;ma³opolskie;6 720;18,1 km?
+500;Sêdziszów;jêdrzejowski;œwiêtokrzyskie;6 707;7,9 km?
+501;KoŸmin Wielkopolski;krotoszyñski;wielkopolskie;6 698;5,9 km?
+502;Pi³awa Górna;dzier¿oniowski;dolnoœl¹skie;6 696;21 km?
+503;Rzepin;s³ubicki;lubuskie;6 689;11,4 km?
+504;Sianów;koszaliñski;zachodniopomorskie;6 681;15,9 km?
+505;Polanica-Zdrój;k³odzki;dolnoœl¹skie;6 663;17 km?
+506;G³uszyca;wa³brzyski;dolnoœl¹skie;6 635;16,2 km?
+507;Niemodlin;opolski;opolskie;6 623;13,1 km?
+508;Gogolin;krapkowicki;opolskie;6 538;20,4 km?
+509;¯ukowo;kartuski;pomorskie;6 521;4,7 km?
+510;Su³kowice;myœlenicki;ma³opolskie;6 520;16,5 km?
+511;Piechowice;jeleniogórski;dolnoœl¹skie;6 494;43 km?
+512;¯migród;trzebnicki;dolnoœl¹skie;6 485;9,5 km?
+513;Przemków;polkowicki;dolnoœl¹skie;6 484;6,2 km?
+514;Mszczonów;¿yrardowski;mazowieckie;6 460;8,6 km?
+515;Dobczyce;myœlenicki;ma³opolskie;6 457;13 km?
+516;K¹ty Wroc³awskie;wroc³awski;dolnoœl¹skie;6 422;8,6 km?
+517;Sulejów;piotrkowski;³ódzkie;6 376;26,3 km?
+518;Lubawka;kamiennogórski;dolnoœl¹skie;6 317;22,4 km?
+519;Buk;poznañski;wielkopolskie;6 225;3 km?
+520;Krzy¿ Wielkopolski;czarnkowsko-trzcianecki;wielkopolskie;6 209;5,8 km?
+521;Nowe;œwiecki;kujawsko-pomorskie;6 190;3,6 km?
+522;Dynów;rzeszowski;podkarpackie;6 186;25 km?
+523;Proszowice;proszowicki;ma³opolskie;6 184;7,3 km?
+524;Nowa Sarzyna;le¿ajski;podkarpackie;6 177;9,2 km?
+525;Dzia³oszyn;pajêczañski;³ódzkie;6 173;4,9 km?
+526;Koniecpol;czêstochowski;œl¹skie;6 165;36,9 km?
+527;Przysucha;przysuski;mazowieckie;6 146;7 km?
+528;Kietrz;g³ubczycki;opolskie;6 136;18,7 km?
+529;G³ogów Ma³opolski;rzeszowski;podkarpackie;6 117;13,7 km?
+530;Sieraków;miêdzychodzki;wielkopolskie;6 117;14,1 km?
+531;Czarne;cz³uchowski;pomorskie;6 089;46,4 km?
+532;Grybów;nowos¹decki;ma³opolskie;6 086;17 km?
+533;Siechnice;wroc³awski;dolnoœl¹skie;6 063;15,6 km?
+534;Maków Podhalañski;suski;ma³opolskie;6 037;20,1 km?
+535;Stronie Œl¹skie;k³odzki;dolnoœl¹skie;6 023;2,4 km?
+536;Wieleñ;czarnkowsko-trzcianecki;wielkopolskie;6 021;4,3 km?
+537;Lewin Brzeski;brzeski;opolskie;6 007;11,6 km?
+538;St¹porków;konecki;œwiêtokrzyskie;5 996;10,9 km?
+539;Wo³czyn;kluczborski;opolskie;5 986;7,5 km?
+540;Szczawnica;nowotarski;ma³opolskie;5 983;32,9 km?
+541;Piwniczna-Zdrój;nowos¹decki;ma³opolskie;5 981;38,3 km?
+542;Karlino;bia³ogardzki;zachodniopomorskie;5 974;9,4 km?
+543;Wiêcbork;sêpoleñski;kujawsko-pomorskie;5 970;4,3 km?
+544;Pieñsk;zgorzelecki;dolnoœl¹skie;5 937;9,9 km?
+545;L¹dek-Zdrój;k³odzki;dolnoœl¹skie;5 917;20,3 km?
+546;D¹browa Bia³ostocka;sokólski;podlaskie;5 874;22,6 km?
+547;Boguchwa³a;rzeszowski;podkarpackie;5 865;9,1 km?
+548;Stêszew;poznañski;wielkopolskie;5 834;5,7 km?
+549;Radziejów;radziejowski;kujawsko-pomorskie;5 817;6 km?
+550;Lipsko;lipski;mazowieckie;5 816;15,7 km?
+551;Terespol;bialski;lubelskie;5 815;10 km?
+552;Strzelno;mogileñski;kujawsko-pomorskie;5 812;4,5 km?
+553;Œcinawa;lubiñski;dolnoœl¹skie;5 798;13,5 km?
+554;Orzysz;piski;warmiñsko-mazurskie;5 797;8,2 km?
+555;Szczawno-Zdrój;wa³brzyski;dolnoœl¹skie;5 796;15 km?
+556;Choroszcz;bia³ostocki;podlaskie;5 782;16,8 km?
+557;G³ogówek;prudnicki;opolskie;5 770;22,1 km?
+558;Pakoœæ;inowroc³awski;kujawsko-pomorskie;5 756;3,5 km?
+559;Szczyrk;bielski;œl¹skie;5 750;39 km?
+560;Jedlicze;kroœnieñski;podkarpackie;5 748;10,6 km?
+561;Kazimierza Wielka;kazimierski;œwiêtokrzyskie;5 748;5,3 km?
+562;Susz;i³awski;warmiñsko-mazurskie;5 717;6,7 km?
+563;Sejny;sejneñski;podlaskie;5 650;4 km?
+564;Lesko;leski;podkarpackie;5 629;15,3 km?
+565;Œmigiel;koœciañski;wielkopolskie;5 603;5,3 km?
+566;Dzierzgoñ;sztumski;pomorskie;5 593;3,9 km?
+567;Radymno;jaros³awski;podkarpackie;5 501;14 km?
+568;KuŸnia Raciborska;raciborski;œl¹skie;5 500;31,5 km?
+569;Miêdzyzdroje;kamieñski;zachodniopomorskie;5 485;4,5 km?
+570;Siewierz;bêdziñski;œl¹skie;5 481;38,7 km?
+571;Szczytna;k³odzki;dolnoœl¹skie;5 363;80,4 km?
+572;Bolków;jaworski;dolnoœl¹skie;5 314;7,7 km?
+573;Czempiñ;koœciañski;wielkopolskie;5 280;3,3 km?
+574;Jordanów;suski;ma³opolskie;5 274;21 km?
+575;Szczebrzeszyn;zamojski;lubelskie;5 245;29,1 km?
+576;Debrzno;cz³uchowski;pomorskie;5 232;7,5 km?
+577;Jaworzyna Œl¹ska;œwidnicki;dolnoœl¹skie;5 226;4,3 km?
+578;Wyrzysk;pilski;wielkopolskie;5 191;4,1 km?
+579;Bychawa;lubelski;lubelskie;5 178;6,7 km?
+580;Nowogród Bobrzañski;zielonogórski;lubuskie;5 161;14,6 km?
+581;Odolanów;ostrowski;wielkopolskie;5 116;4,8 km?
+582;Zagórz;sanocki;podkarpackie;5 082;22,3 km?
+583;Zb¹szynek;œwiebodziñski;lubuskie;5 078;2,9 km?
+584;Muszyna;nowos¹decki;ma³opolskie;5 069;24,4 km?
+585;Otmuchów;nyski;opolskie;5 068;27,8 km?
+586;I³¿a;radomski;mazowieckie;5 054;15,8 km?
+587;Brusy;chojnicki;pomorskie;5 037;5,2 km?
+588;Bierutów;oleœnicki;dolnoœl¹skie;5 032;8,4 km?
+589;Jedlina-Zdrój;wa³brzyski;dolnoœl¹skie;5 000;17 km?
+590;Wolin;kamieñski;zachodniopomorskie;4 999;14,5 km?
+591;Karpacz;jeleniogórski;dolnoœl¹skie;4 968;39 km?
+592;£askarzew;garwoliñski;mazowieckie;4 914;15 km?
+593;Borne Sulinowo;szczecinecki;zachodniopomorskie;4 905;18,2 km?
+594;Duszniki-Zdrój;k³odzki;dolnoœl¹skie;4 899;22 km?
+595;Ciechanowiec;wysokomazowiecki;podlaskie;4 840;19,5 km?
+596;Nowe Skalmierzyce;ostrowski;wielkopolskie;4 830;1,6 km?
+597;Reszel;kêtrzyñski;warmiñsko-mazurskie;4 817;3,8 km?
+598;Pilzno;dêbicki;podkarpackie;4 792;16 km?
+599;Kcynia;nakielski;kujawsko-pomorskie;4 738;6,8 km?
+600;O¿arów;opatowski;œwiêtokrzyskie;4 730;7,8 km?
+601;Brzeœæ Kujawski;w³oc³awski;kujawsko-pomorskie;4 728;7 km?
+602;Biecz;gorlicki;ma³opolskie;4 705;17,7 km?
+603;Ruciane-Nida;piski;warmiñsko-mazurskie;4 701;17,1 km?
+604;Supraœl;bia³ostocki;podlaskie;4 679;5,7 km?
+605;Raci¹¿;p³oñski;mazowieckie;4 662;8 km?
+606;Leœna;lubañski;dolnoœl¹skie;4 654;8,6 km?
+607;Kalwaria Zebrzydowska;wadowicki;ma³opolskie;4 593;5,5 km?
+608;Zduny;krotoszyñski;wielkopolskie;4 587;6,2 km?
+609;Korsze;kêtrzyñski;warmiñsko-mazurskie;4 586;4 km?
+610;Kroœniewice;kutnowski;³ódzkie;4 549;4,2 km?
+611;£abiszyn;¿niñski;kujawsko-pomorskie;4 531;2,9 km?
+612;Rejowiec Fabryczny;che³mski;lubelskie;4 515;15 km?
+613;¯arki;myszkowski;œl¹skie;4 486;25,4 km?
+614;Golina;koniñski;wielkopolskie;4 478;3,5 km?
+615;Olszyna;lubañski;dolnoœl¹skie;4 474;20,3 km?
+616;Jasieñ;¿arski;lubuskie;4 463;4,8 km?
+617;WoŸniki;lubliniecki;œl¹skie;4 463;71 km?
+618;Krzepice;k³obucki;œl¹skie;4 460;27,7 km?
+619;Piotrków Kujawski;radziejowski;kujawsko-pomorskie;4 448;9,8 km?
+620;Bytom Odrzañski;nowosolski;lubuskie;4 443;2,3 km?
+621;Pilawa;garwoliñski;mazowieckie;4 438;6,6 km?
+622;Chêciny;kielecki;œwiêtokrzyskie;4 438;14,1 km?
+623;S³omniki;krakowski;ma³opolskie;4 423;3,4 km?
+624;Mrocza;nakielski;kujawsko-pomorskie;4 393;5 km?
+625;Ogrodzieniec;zawierciañski;œl¹skie;4 379;28,6 km?
+626;Kalisz Pomorski;drawski;zachodniopomorskie;4 361;12 km?
+627;Resko;³obeski;zachodniopomorskie;4 356;4,5 km?
+628;Zawidów;zgorzelecki;dolnoœl¹skie;4 353;6 km?
+629;Szamocin;chodzieski;wielkopolskie;4 343;4,7 km?
+630;Œwieradów-Zdrój;lubañski;dolnoœl¹skie;4 342;21 km?
+631;Nowy Staw;malborski;pomorskie;4 335;4,7 km?
+632;Skaryszew;radomski;mazowieckie;4 308;27,5 km?
+633;Mieroszów;wa³brzyski;dolnoœl¹skie;4 274;10,3 km?
+634;Górowo I³aweckie;bartoszycki;warmiñsko-mazurskie;4 264;3 km?
+635;Kowalewo Pomorskie;golubsko-dobrzyñski;kujawsko-pomorskie;4 261;4,5 km?
+636;Kleczew;koniñski;wielkopolskie;4 240;6,7 km?
+637;Nowogrodziec;boles³awiecki;dolnoœl¹skie;4 230;16,1 km?
+638;¯abno;tarnowski;ma³opolskie;4 223;11,1 km?
+639;Bobolice;koszaliñski;zachodniopomorskie;4 218;4,8 km?
+640;Czerwieñsk;zielonogórski;lubuskie;4 200;9,4 km?
+641;Krobia;gostyñski;wielkopolskie;4 187;7,1 km?
+642;Szczucin;d¹browski;ma³opolskie;4 173;6,9 km?
+643;Skoki;w¹growiecki;wielkopolskie;4 145;11,2 km?
+644;G¹bin;p³ocki;mazowieckie;4 142;28 km?
+645;Serock;legionowski;mazowieckie;4 130;13,4 km?
+646;Tarczyn;piaseczyñski;mazowieckie;4 127;5,2 km?
+647;Bia³a Piska;piski;warmiñsko-mazurskie;4 125;3,2 km?
+648;P³oty;gryficki;zachodniopomorskie;4 092;4,1 km?
+649;Janowiec Wielkopolski;¿niñski;kujawsko-pomorskie;4 088;3 km?
+650;Lipiany;pyrzycki;zachodniopomorskie;4 085;5,5 km?
+651;¯elechów;garwoliñski;mazowieckie;4 081;12,1 km?
+652;Mirsk;lwówecki;dolnoœl¹skie;4 053;14,7 km?
+653;Soko³ów Ma³opolski;rzeszowski;podkarpackie;4 040;15,5 km?
+654;Babimost;zielonogórski;lubuskie;4 037;3,7 km?
+655;Na³êczów;pu³awski;lubelskie;4 033;13,8 km?
+656;I³owa;¿agañski;lubuskie;4 013;9,2 km?
+657;Drzewica;opoczyñski;³ódzkie;4 008;4,8 km?
+658;Okonek;z³otowski;wielkopolskie;3 981;6 km?
+659;Ma³ogoszcz;jêdrzejowski;œwiêtokrzyskie;3 929;9,7 km?
+660;Chmielnik;kielecki;œwiêtokrzyskie;3 921;7,8 km?
+661;Nowe Miasto nad Pilic¹;grójecki;mazowieckie;3 920;11,3 km?
+662;S³awa;wschowski;lubuskie;3 913;14,3 km?
+663;Oœno Lubuskie;s³ubicki;lubuskie;3 889;8 km?
+664;Miko³ajki;mr¹gowski;warmiñsko-mazurskie;3 883;8,9 km?
+665;Jastarnia;pucki;pomorskie;3 874;8 km?
+666;Podkowa Leœna;grodziski;mazowieckie;3 869;10 km?
+667;Brañsk;bielski;podlaskie;3 867;32 km?
+668;Wojcieszów;z³otoryjski;dolnoœl¹skie;3 864;32 km?
+669;Barwice;szczecinecki;zachodniopomorskie;3 851;7,5 km?
+670;Ujœcie;pilski;wielkopolskie;3 828;5,8 km?
+671;Jab³onowo Pomorskie;brodnicki;kujawsko-pomorskie;3 824;3,4 km?
+672;£eba;lêborski;pomorskie;3 824;15 km?
+673;Krajenka;z³otowski;wielkopolskie;3 811;3,8 km?
+674;Dobrodzieñ;oleski;opolskie;3 810;19,5 km?
+675;Kêpice;s³upski;pomorskie;3 802;6,1 km?
+676;Ska³a;krakowski;ma³opolskie;3 762;3 km?
+677;Pruchnik;jaros³awski;podkarpackie;3 751;19,9 km?
+678;Szczekociny;zawierciañski;œl¹skie;3 745;18 km?
+679;Kargowa;zielonogórski;lubuskie;3 743;4,6 km?
+680;Byczyna;kluczborski;opolskie;3 714;5,8 km?
+681;Rymanów;kroœnieñski;podkarpackie;3 696;12,4 km?
+682;Przedbórz;radomszczañski;³ódzkie;3 687;6,1 km?
+683;Zator;oœwiêcimski;ma³opolskie;3 683;11,5 km?
+684;Sompolno;koniñski;wielkopolskie;3 677;6,2 km?
+685;Skêpe;lipnowski;kujawsko-pomorskie;3 669;7,5 km?
+686;Hel;pucki;pomorskie;3 668;22 km?
+687;Toszek;gliwicki;œl¹skie;3 664;9,7 km?
+688;Halinów;miñski;mazowieckie;3 654;2,8 km?
+689;Prochowice;legnicki;dolnoœl¹skie;3 649;9,9 km?
+690;Strumieñ;cieszyñski;œl¹skie;3 642;6,3 km?
+691;Tyczyn;rzeszowski;podkarpackie;3 641;9,7 km?
+692;Mi³os³aw;wrzesiñski;wielkopolskie;3 626;4,1 km?
+693;Nekla;wrzesiñski;wielkopolskie;3 621;19,8 km?
+694;Mieszkowice;gryfiñski;zachodniopomorskie;3 603;4,7 km?
+695;Skórcz;starogardzki;pomorskie;3 599;4 km?
+696;Ma³omice;¿agañski;lubuskie;3 573;5,4 km?
+697;Kowal;w³oc³awski;kujawsko-pomorskie;3 538;5 km?
+698;Stryków;zgierski;³ódzkie;3 537;8,2 km?
+699;Rakoniewice;grodziski;wielkopolskie;3 523;3,4 km?
+700;Szczuczyn;grajewski;podlaskie;3 489;13,2 km?
+701;Tarnogród;bi³gorajski;lubelskie;3 464;10,7 km?
+702;Rzgów;³ódzki wschodni;³ódzkie;3 431;16,8 km?
+703;Alwernia;chrzanowski;ma³opolskie;3 425;8,9 km?
+704;Go³añcz;w¹growiecki;wielkopolskie;3 413;12,6 km?
+705;Kock;lubartowski;lubelskie;3 412;16,8 km?
+706;Wojnicz;tarnowski;ma³opolskie;3 406;8,5 km?
+707;Tuliszków;turecki;wielkopolskie;3 405;7 km?
+708;£asin;grudzi¹dzki;kujawsko-pomorskie;3 377;4,8 km?
+709;Z³oczew;sieradzki;³ódzkie;3 377;13,8 km?
+710;Kolonowskie;strzelecki;opolskie;3 361;55,7 km?
+711;Zwierzyniec;zamojski;lubelskie;3 347;6,2 km?
+712;Jeziorany;olsztyñski;warmiñsko-mazurskie;3 346;3,4 km?
+713;Warta;sieradzki;³ódzkie;3 337;10,9 km?
+714;Maszewo;goleniowski;zachodniopomorskie;3 337;5,5 km?
+715;Gozdnica;¿agañski;lubuskie;3 272;24 km?
+716;Miejska Górka;rawicki;wielkopolskie;3 246;3,1 km?
+717;Bia³a Rawska;rawski;³ódzkie;3 244;9,5 km?
+718;Zakroczym;nowodworski;mazowieckie;3 241;20 km?
+719;Kañczuga;przeworski;podkarpackie;3 236;7,6 km?
+720;Kobylin;krotoszyñski;wielkopolskie;3 236;4,9 km?
+721;Pyzdry;wrzesiñski;wielkopolskie;3 234;12,2 km?
+722;Chociwel;stargardzki;zachodniopomorskie;3 206;3,7 km?
+723;Micha³owo;bia³ostocki;podlaskie;3 177;2,2 km?
+724;Myszyniec;ostro³êcki;mazowieckie;3 170;10,7 km?
+725;Dobiegniew;strzelecko-drezdenecki;lubuskie;3 169;5,7 km?
+726;Lubraniec;w³oc³awski;kujawsko-pomorskie;3 160;2 km?
+727;Æmielów;ostrowiecki;œwiêtokrzyskie;3 157;13,3 km?
+728;Œlesin;koniñski;wielkopolskie;3 154;7,2 km?
+729;Glinojeck;ciechanowski;mazowieckie;3 150;7,4 km?
+730;Niemcza;dzier¿oniowski;dolnoœl¹skie;3 121;19,8 km?
+731;Krasnobród;zamojski;lubelskie;3 117;7 km?
+732;Kunów;ostrowiecki;œwiêtokrzyskie;3 098;7,3 km?
+733;Radomyœl Wielki;mielecki;podkarpackie;3 080;8,8 km?
+734;Uniejów;poddêbicki;³ódzkie;3 079;12,2 km?
+735;Zagórów;s³upecki;wielkopolskie;3 065;3,4 km?
+736;Lwówek;nowotomyski;wielkopolskie;3 058;3,2 km?
+737;Oleszyce;lubaczowski;podkarpackie;3 053;5,1 km?
+738;£ob¿enica;pilski;wielkopolskie;3 038;3,3 km?
+739;Miros³awiec;wa³ecki;zachodniopomorskie;3 037;2,1 km?
+740;Margonin;chodzieski;wielkopolskie;3 034;5,2 km?
+741;Wêgliniec;zgorzelecki;dolnoœl¹skie;3 030;8,7 km?
+742;Polanów;koszaliñski;zachodniopomorskie;3 028;7,4 km?
+743;Wilamowice;bielski;œl¹skie;3 015;10,4 km?
+744;Bobowa;gorlicki;ma³opolskie;3 005;7,2 km?
+745;Baborów;g³ubczycki;opolskie;3 005;11,9 km?
+746;Drobin;p³ocki;mazowieckie;2 992;9,7 km?
+747;Recz;choszczeñski;zachodniopomorskie;2 977;12,4 km?
+748;Bojanowo;rawicki;wielkopolskie;2 970;2,3 km?
+749;Pieniê¿no;braniewski;warmiñsko-mazurskie;2 949;3,8 km?
+750;Chorzele;przasnyski;mazowieckie;2 939;17,5 km?
+751;Z³oty Stok;z¹bkowicki;dolnoœl¹skie;2 935;7,7 km?
+752;Ka³uszyn;miñski;mazowieckie;2 934;12,3 km?
+753;Ryn;gi¿ycki;warmiñsko-mazurskie;2 925;4,1 km?
+754;Daleszyce;kielecki;œwiêtokrzyskie;2 911;15,5 km?
+755;Poniec;gostyñski;wielkopolskie;2 910;3,5 km?
+756;Wêgorzyno;³obeski;zachodniopomorskie;2 909;6,9 km?
+757;Sulmierzyce;krotoszyñski;wielkopolskie;2 905;29 km?
+758;Kamieñsk;radomszczañski;³ódzkie;2 890;12 km?
+759;Nowe Miasteczko;nowosolski;lubuskie;2 884;3,3 km?
+760;Ryglice;tarnowski;ma³opolskie;2 880;25,2 km?
+761;W¹chock;starachowicki;œwiêtokrzyskie;2 865;16 km?
+762;Knyszyn;moniecki;podlaskie;2 850;23,7 km?
+763;Cybinka;s³ubicki;lubuskie;2 809;5,3 km?
+764;W¹sosz;górowski;dolnoœl¹skie;2 807;3,2 km?
+765;Tolkmicko;elbl¹ski;warmiñsko-mazurskie;2 807;2,3 km?
+766;Ksi¹¿ Wielkopolski;œremski;wielkopolskie;2 780;2 km?
+767;Rad³ów;tarnowski;ma³opolskie;2 773;16,8 km?
+768;Golczewo;kamieñski;zachodniopomorskie;2 763;7,4 km?
+769;Izbica Kujawska;w³oc³awski;kujawsko-pomorskie;2 762;2,2 km?
+770;Rydzyna;leszczyñski;wielkopolskie;2 762;2,2 km?
+771;Wysoka;pilski;wielkopolskie;2 758;4,8 km?
+772;Nowy Wiœnicz;bocheñski;ma³opolskie;2 757;5 km?
+773;Bardo;z¹bkowicki;dolnoœl¹skie;2 741;4,7 km?
+774;Dziwnów;kamieñski;zachodniopomorskie;2 736;5 km?
+775;Ró¿an;makowski;mazowieckie;2 730;6,7 km?
+776;Miêdzylesie;k³odzki;dolnoœl¹skie;2 723;14,4 km?
+777;Brzostek;dêbicki;podkarpackie;2 718;8,8 km?
+778;Leœnica;strzelecki;opolskie;2 717;14,5 km?
+779;Wyszogród;p³ocki;mazowieckie;2 709;13 km?
+780;Stoczek £ukowski;³ukowski;lubelskie;2 700;9 km?
+781;Prószków;opolski;opolskie;2 680;16,2 km?
+782;Piaski;œwidnicki;lubelskie;2 672;8,4 km?
+783;K³ecko;gnieŸnieñski;wielkopolskie;2 669;9,6 km?
+784;Annopol;kraœnicki;lubelskie;2 664;7,7 km?
+785;Mi³akowo;ostródzki;warmiñsko-mazurskie;2 653;8,8 km?
+786;Pe³czyce;choszczeñski;zachodniopomorskie;2 653;13,1 km?
+787;Czerniejewo;gnieŸnieñski;wielkopolskie;2 642;10,2 km?
+788;Czy¿ew;wysokomazowiecki;podlaskie;2 636;5,2 km?
+789;Kazimierz Dolny;pu³awski;lubelskie;2 607;30,4 km?
+790;£êknica;¿arski;lubuskie;2 602;16 km?
+791;Torzym;sulêciñski;lubuskie;2 597;9,1 km?
+792;Koprzywnica;sandomierski;œwiêtokrzyskie;2 575;17,9 km?
+793;Pasym;szczycieñski;warmiñsko-mazurskie;2 536;15,2 km?
+794;Borek Wielkopolski;gostyñski;wielkopolskie;2 533;6,3 km?
+795;Tychowo;bia³ogardzki;zachodniopomorskie;2 533;4 km?
+796;Gorzów Œl¹ski;oleski;opolskie;2 532;18,5 km?
+797;Józefów;bi³gorajski;lubelskie;2 520;23,9 km?
+798;Bia³a;prudnicki;opolskie;2 511;14,7 km?
+799;Krynki;sokólski;podlaskie;2 511;3,8 km?
+800;Trzciel;miêdzyrzecki;lubuskie;2 496;3 km?
+801;Zab³udów;bia³ostocki;podlaskie;2 495;14,3 km?
+802;Bisztynek;bartoszycki;warmiñsko-mazurskie;2 492;2,2 km?
+803;Radków;k³odzki;dolnoœl¹skie;2 485;15 km?
+804;Ciê¿kowice;tarnowski;ma³opolskie;2 483;10 km?
+805;Frombork;braniewski;warmiñsko-mazurskie;2 475;7,6 km?
+806;Goœcino;ko³obrzeski;zachodniopomorskie;2 468;5,7 km?
+807;Trzciñsko-Zdrój;gryfiñski;zachodniopomorskie;2 460;2,3 km?
+808;Lipsk;augustowski;podlaskie;2 443;5 km?
+809;Kozieg³owy;myszkowski;œl¹skie;2 438;26,7 km?
+810;Mi³om³yn;ostródzki;warmiñsko-mazurskie;2 431;12,4 km?
+811;Œwi¹tniki Górne;krakowski;ma³opolskie;2 394;4,4 km?
+812;Wolbórz;piotrkowski;³ódzkie;2 388;15,2 km?
+813;Dobrzany;stargardzki;zachodniopomorskie;2 387;5,3 km?
+814;Mogielnica;grójecki;mazowieckie;2 386;13 km?
+815;Obrzycko;szamotulski;wielkopolskie;2 384;4 km?
+816;Miêdzybórz;oleœnicki;dolnoœl¹skie;2 381;6,4 km?
+817;Stawiski;kolneñski;podlaskie;2 379;13,2 km?
+818;Œwierzawa;z³otoryjski;dolnoœl¹skie;2 376;1,8 km?
+819;Rychwa³;koniñski;wielkopolskie;2 369;9,7 km?
+820;Kamieñ Krajeñski;sêpoleñski;kujawsko-pomorskie;2 358;3,7 km?
+821;Dobra;³obeski;zachodniopomorskie;2 347;1,8 km?
+822;Czchów;brzeski;ma³opolskie;2 346;14,1 km?
+823;Cz³opa;wa³ecki;zachodniopomorskie;2 342;6,3 km?
+824;Drawno;choszczeñski;zachodniopomorskie;2 335;5 km?
+825;Wi¹zów;strzeliñski;dolnoœl¹skie;2 327;9,2 km?
+826;Szepietowo;wysokomazowiecki;podlaskie;2 282;2 km?
+827;Dobrzyñ nad Wis³¹;lipnowski;kujawsko-pomorskie;2 278;5,4 km?
+828;Prusice;trzebnicki;dolnoœl¹skie;2 274;10,9 km?
+829;Suchowola;sokólski;podlaskie;2 274;26 km?
+830;Bodzentyn;kielecki;œwiêtokrzyskie;2 274;8,7 km?
+831;B³aszki;sieradzki;³ódzkie;2 273;1,6 km?
+832;Osieczna;leszczyñski;wielkopolskie;2 245;4,8 km?
+833;Bia³y Bór;szczecinecki;zachodniopomorskie;2 229;12,8 km?
+834;Zalewo;i³awski;warmiñsko-mazurskie;2 211;8,2 km?
+835;Ostrów Lubelski;lubartowski;lubelskie;2 207;29,8 km?
+836;Nowogród;³om¿yñski;podlaskie;2 197;20,6 km?
+837;Krzanowice;raciborski;œl¹skie;2 195;3,1 km?
+838;£aszczów;tomaszowski;lubelskie;2 187;5 km?
+839;Kosów Lacki;soko³owski;mazowieckie;2 187;11,6 km?
+840;Sieniawa;przeworski;podkarpackie;2 179;6,7 km?
+841;B³a¿owa;rzeszowski;podkarpackie;2 178;4,2 km?
+842;Tyszowce;tomaszowski;lubelskie;2 171;18,5 km?
+843;Dukla;kroœnieñski;podkarpackie;2 160;5,5 km?
+844;Kisielice;i³awski;warmiñsko-mazurskie;2 155;3,4 km?
+845;¯erków;jarociñski;wielkopolskie;2 145;2,2 km?
+846;Drohiczyn;siemiatycki;podlaskie;2 125;15,7 km?
+847;Narol;lubaczowski;podkarpackie;2 110;12,4 km?
+848;D¹bie;kolski;wielkopolskie;2 089;8,8 km?
+849;Raszków;ostrowski;wielkopolskie;2 076;2,1 km?
+850;Sêpopol;bartoszycki;warmiñsko-mazurskie;2 051;4,6 km?
+851;Pogorzela;gostyñski;wielkopolskie;2 046;4,4 km?
+852;Lubniewice;sulêciñski;lubuskie;2 040;12,1 km?
+853;Iñsko;stargardzki;zachodniopomorskie;2 035;7,5 km?
+854;Szadek;zduñskowolski;³ódzkie;2 019;17,9 km?
+855;Tykocin;bia³ostocki;podlaskie;2 014;29 km?
+856;Osiek;staszowski;œwiêtokrzyskie;2 004;17,4 km?
+857;Ostroróg;szamotulski;wielkopolskie;1 988;1,3 km?
+858;Brok;ostrowski;mazowieckie;1 977;28,1 km?
+859;Grabów nad Prosn¹;ostrzeszowski;wielkopolskie;1 976;2,6 km?
+860;Nieszawa;aleksandrowski;kujawsko-pomorskie;1 975;10 km?
+861;Cieszanów;lubaczowski;podkarpackie;1 975;15,1 km?
+862;Tuczno;wa³ecki;zachodniopomorskie;1 974;9,2 km?
+863;Lubomierz;lwówecki;dolnoœl¹skie;1 968;8,1 km?
+864;Pilica;zawierciañski;œl¹skie;1 948;8,2 km?
+865;Jutrosin;rawicki;wielkopolskie;1 946;1,6 km?
+866;Bie¿uñ;¿uromiñski;mazowieckie;1 911;12,1 km?
+867;Mikstat;ostrzeszowski;wielkopolskie;1 904;2,5 km?
+868;Goni¹dz;moniecki;podlaskie;1 900;4,3 km?
+869;Radzyñ Che³miñski;grudzi¹dzki;kujawsko-pomorskie;1 894;1,8 km?
+870;Chodecz;w³oc³awski;kujawsko-pomorskie;1 893;1,4 km?
+871;Korfantów;nyski;opolskie;1 893;10,2 km?
+872;Zawichost;sandomierski;œwiêtokrzyskie;1 861;20,3 km?
+873;Soœnicowice;gliwicki;œl¹skie;1 853;11,7 km?
+874;Iwonicz-Zdrój;kroœnieñski;podkarpackie;1 852;5,9 km?
+875;M³ynary;elbl¹ski;warmiñsko-mazurskie;1 831;2,8 km?
+876;Mordy;siedlecki;mazowieckie;1 819;4,5 km?
+877;Wleñ;lwówecki;dolnoœl¹skie;1 818;7,2 km?
+878;Wielichowo;grodziski;wielkopolskie;1 766;1,2 km?
+879;Przedecz;kolski;wielkopolskie;1 759;3 km?
+880;Ujazd;strzelecki;opolskie;1 740;14,8 km?
+881;Jedwabne;³om¿yñski;podlaskie;1 717;4,5 km?
+882;Przec³aw;mielecki;podkarpackie;1 711;16 km?
+883;Nowe Brzesko;proszowicki;ma³opolskie;1 672;7,3 km?
+884;Zakliczyn;tarnowski;ma³opolskie;1 665;4 km?
+885;Cedynia;gryfiñski;zachodniopomorskie;1 651;1,7 km?
+886;Krzywiñ;koœciañski;wielkopolskie;1 637;2,3 km?
+887;Rajgród;grajewski;podlaskie;1 626;35,3 km?
+888;Moryñ;gryfiñski;zachodniopomorskie;1 600;5,5 km?
+889;Stawiszyn;kaliski;wielkopolskie;1 561;-
+890;Dolsk;œremski;wielkopolskie;1 560;6,2 km?
+891;Baranów Sandomierski;tarnobrzeski;podkarpackie;1 497;9,2 km?
+892;Frampol;bi³gorajski;lubelskie;1 482;4,7 km?
+893;Ulanów;ni¿añski;podkarpackie;1 472;8,2 km?
+894;Suchañ;stargardzki;zachodniopomorskie;1 466;3,6 km?
+895;Dobra;turecki;wielkopolskie;1 454;1,8 km?
+896;Ko³aczyce;jasielski;podkarpackie;1 447;7,2 km?
+897;Górzno;brodnicki;kujawsko-pomorskie;1 410;3,4 km?
+898;Lubieñ Kujawski;w³oc³awski;kujawsko-pomorskie;1 401;2,3 km?
+899;Krynica Morska;nowodworski;pomorskie;1 351;116 km?
+900;Kleszczele;hajnowski;podlaskie;1 345;46,7 km?
+901;Szlichtyngowa;wschowski;lubuskie;1 328;1,6 km?
+902;Skalbmierz;kazimierski;œwiêtokrzyskie;1 315;7,1 km?
+903;Nowe Warpno;policki;zachodniopomorskie;1 231;24,5 km?
+904;Sura¿;bia³ostocki;podlaskie;1 008;33,9 km?
+905;Dzia³oszyce;piñczowski;œwiêtokrzyskie;981;1,9 km?
+906;Wyœmierzyce;bia³obrzeski;mazowieckie;906;16,8 km?
+907;Modliborzyce;janowski;lubelskie;-;-
+908;Mrozy;miñski;mazowieckie;-;-
+909;Zaklików;stalowowolski;podkarpackie;-;-
+910;W³adys³awowo;pucki;pomorskie;-;39 km?
+911;Czarna Woda;starogardzki;pomorskie;-;27,7 km?
+912;Stopnica;buski;œwiêtokrzyskie;-;-
+913;Chocz;pleszewski;wielkopolskie;-;-
+914;Dobrzyca;pleszewski;wielkopolskie;-;19,7 km?
+915;Stepnica;goleniowski;zachodniopomorskie;-;11,4 km?

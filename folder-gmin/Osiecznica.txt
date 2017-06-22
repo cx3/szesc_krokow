@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="pl-PL" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="vubR2h5cvhv5klI580_6bKwZKR45DAhVEEZgJ5Kv-L8" name="google-site-verification"/>
+  <title>
+   Osiecznica - wyszukiwarka urzêdów | 6krokow.pl
+  </title>
+  <meta content="Osiecznica - wyszukiwarka urzêdów" property="og:title">
+   <meta content="Osiecznica - wyszukiwarka urzêdów" name="twitter:title">
+    <meta content="Lista urzêdów dla: Osiecznica, powiat: Boles³awiecki, woj.: Dolnoœl¹skie. Urz¹d gminy, miasta, powiatu, Urz¹d pracy, ZUS, Urz¹d skarbowy, Urz¹d statystyczny." name="description"/>
+    <meta content="Lista urzêdów dla miescowoœci Osiecznica. Urz¹d gminy, miasta, powiatu, Urz¹d pracy, ZUS, Urz¹d skarbowy, Urz¹d statystyczny." property="og:description">
+     <meta content="Lista urzêdów dla miescowoœci Osiecznica. Urz¹d gminy, miasta, powiatu, Urz¹d pracy, ZUS, Urz¹d skarbowy, Urz¹d statystyczny." name="twitter:description">
+      <meta content="" name="keywords"/>
+      <meta content="https://6krokow.pl/urzedy-panstwowe/02/01/05/Osiecznica/" property="og:url">
+       <meta content="https://6krokow.pl/urzedy-panstwowe/02/01/05/Osiecznica/" name="twitter:url">
+        <meta content="https://6krokow.pl/img/og-image/og6krokow.jpg" property="og:image">
+         <meta content="https://6krokow.pl/img/og-image/og6krokow.jpg" name="twitter:image">
+          <meta content="article" property="og:type"/>
+          <meta content="300" property="og:image:width"/>
+          <meta content="300" property="og:image:height"/>
+          <meta content="pl_PL" property="og:locale"/>
+          <meta content="W³asna dzia³alnoœæ gospodarcza krok po kroku | 6krokow.pl" property="og:site_name"/>
+          <link href="https://plus.google.com/104738157837282149330" rel="publisher">
+           <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+            <script src="/js/jquery-2.1.4.js">
+            </script>
+            <script src="/js/main.js">
+            </script>
+            <script async="" defer="" src="https://apis.google.com/js/platform.js">
+             {lang: 'pl'}
+            </script>
+            <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css"/>
+            <link href="/css/media.css" media="screen" rel="stylesheet" type="text/css"/>
+            <link href="/css/menu-styles.css" media="screen" rel="stylesheet" type="text/css"/>
+            <link href="/css/druk.css" media="print" rel="stylesheet" type="text/css">
+             <link href="/favico1.ico" rel="shortcut icon" type="image/x-icon"/>
+             <link href="/img/site/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+             <link href="/img/site/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+             <link href="/img/site/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+             <link href="/img/site/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+             <script src="/js/jquery.cookie.js" type="text/javascript">
+             </script>
+             <script src="/js/menu-script.js" type="text/javascript">
+             </script>
+             <!--[if lt IE 9]>
+    <script src="/js/html5shiv.js"></script>
+   <![endif]-->
+             <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65448946-1', 'auto');
+  ga('send', 'pageview');
+             </script>
+             <body itemscope="" itemtype="http://schema.org/WebPage">
+              <header id="header">
+               <div class="site">
+                <div itemscope="" itemtype="http://schema.org/Organization">
+                 <a href="https://6krokow.pl/" id="logo" itemprop="logo">
+                  <img alt="Poradnik jak za³o¿yæ i prowadziæ firmê krok po korku - 6korkow.pl" itemprop="url" src="/img/site/logo.gif"/>
+                 </a>
+                </div>
+                <nav class="clearfix" id="top-menu">
+                 <ol class="menu">
+                  <li>
+                   <a href="/">
+                    Poradnik przedsiêbiorcy
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/z-czym-wiaze-sie-rozpoczecie-wlasnej-dzialalnosci-gospodarczej/">
+                      Plusy i minusy, czyli z czym wi¹¿e siê rozpoczêcie w³asnej dzia³alnoœci gospodarczej
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/planujesz-zalozyc-firme-opracuj-model-biznesowy/">
+                      Planujesz za³o¿yæ firmê - opracuj model biznesowy
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/jak-zalozyc-wlasna-firme-zakladanie-dzialalnosci-gospodarczej-krok-po-kroku/">
+                      Jak za³o¿yæ w³asn¹ firmê - zak³adanie dzia³alnoœci gospodarczej krok po kroku
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/kreowanie-wizerunku-firmy-czyli-jak-zbudowac-pozytywny-wizerunek-wlasnej-marki/">
+                      Kreowanie wizerunku firmy, czyli jak zbudowaæ pozytywny wizerunek w³asnej marki?
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/jak-skutecznie-sprzedawac-poradnik-krok-po-kroku/">
+                      Jak skutecznie sprzedawaæ - poradnik krok po kroku
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/skuteczna-windykacja-naleznosci/">
+                      Skuteczna windykacja nale¿noœci, czyli jak odzyskaæ pieni¹dze od d³u¿nika
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/warto-wiedziec/">
+                    Warto wiedzieæ
+                   </a>
+                  </li>
+                  <li class="active">
+                   <a href="#">
+                    Bazy
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/kody-pkd/">
+                      Lista kodów PKD
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/urzedy-panstwowe/lista/">
+                      Lista urzêdów pañstwowych
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/targi-branzowe/">
+                      Targi bran¿owe 2016
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/quizy/">
+                    Quizy
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/dokumenty-do-pobrania/">
+                    Do pobrania
+                   </a>
+                  </li>
+                 </ol>
+                </nav>
+                <div id="cssmenu">
+                 <ul>
+                  <li>
+                   <a class="submenu-button1" href="#">
+                    Poradnik przedsiêbiorcy
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/z-czym-wiaze-sie-rozpoczecie-wlasnej-dzialalnosci-gospodarczej/">
+                      Plusy i minusy, czyli z czym wi¹¿e siê rozpoczêcie w³asnej dzia³alnoœci gospodarczej
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/planujesz-zalozyc-firme-opracuj-model-biznesowy/">
+                      Planujesz za³o¿yæ firmê - opracuj model biznesowy
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/jak-zalozyc-wlasna-firme-zakladanie-dzialalnosci-gospodarczej-krok-po-kroku/">
+                      Jak za³o¿yæ w³asn¹ firmê - zak³adanie dzia³alnoœci gospodarczej krok po kroku
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/kreowanie-wizerunku-firmy-czyli-jak-zbudowac-pozytywny-wizerunek-wlasnej-marki/">
+                      Kreowanie wizerunku firmy, czyli jak zbudowaæ pozytywny wizerunek w³asnej marki?
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/jak-skutecznie-sprzedawac-poradnik-krok-po-kroku/">
+                      Jak skutecznie sprzedawaæ - poradnik krok po kroku
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/skuteczna-windykacja-naleznosci/">
+                      Skuteczna windykacja nale¿noœci, czyli jak odzyskaæ pieni¹dze od d³u¿nika
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/warto-wiedziec/">
+                    Warto wiedzieæ
+                   </a>
+                  </li>
+                  <li class="active">
+                   <a href="#">
+                    Bazy
+                   </a>
+                   <ul>
+                    <li>
+                     <a href="/kody-pkd/">
+                      Lista kodów PKD
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/urzedy-panstwowe/lista/">
+                      Lista urzêdów pañstwowych
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/targi-branzowe/">
+                      Targi bran¿owe 2016
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <a href="/quizy/">
+                    Quizy
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/dokumenty-do-pobrania/">
+                    Do pobrania
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </header>
+              <progress value="0">
+              </progress>
+              <section class="sub" id="baner">
+               <div id="banerBg">
+                <img alt="6krokow.pl - kontakt" id="banerJpg" src="/img/site/ban-00.jpg"/>
+                <div class="site banerArt">
+                 <br>
+                  <br>
+                   <br>
+                    <h2>
+                     Twoje pierwsze kroki w biznesie
+                    </h2>
+                    <h3>
+                     Czyli wszystko krok po kroku, co powinieneœ wiedzieæ
+                     <br>
+                      o zak³adaniu oraz skutecznym prowadzeniu w³asnej firmy.
+                     </br>
+                    </h3>
+                   </br>
+                  </br>
+                 </br>
+                </div>
+               </div>
+              </section>
+              <div class="site sub" id="mainContnet">
+               <div id="mainFull">
+                <article id="article">
+                 <div id="breadcrumbs">
+                  <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                   <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <a href="https://6krokow.pl/" itemprop="item" typeof="WebPage">
+                     <span itemprop="name">
+                      6krokow.pl
+                     </span>
+                    </a>
+                    <meta content="1" itemprop="position">
+                    </meta>
+                   </li>
+                   <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <a href="https://6krokow.pl/urzedy-panstwowe/lista/" itemprop="item" typeof="WebPage">
+                     <span itemprop="name">
+                      Lista urzêdów
+                     </span>
+                    </a>
+                    <meta content="2" property="itemprop">
+                    </meta>
+                   </li>
+                   <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <a href="https://6krokow.pl/urzedy-panstwowe/lista/02/" itemprop="item" typeof="WebPage">
+                     <span itemprop="name">
+                      woj. dolnoœl¹skie
+                     </span>
+                    </a>
+                    <meta content="3" itemprop="position">
+                    </meta>
+                   </li>
+                   <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <a href="https://6krokow.pl/urzedy-panstwowe/02/01/05/Osiecznica/" itemprop="item" typeof="WebPage">
+                     <span itemprop="name">
+                      Osiecznica
+                     </span>
+                    </a>
+                    <meta content="4" itemprop="position">
+                    </meta>
+                   </li>
+                  </ol>
+                  <div class="clear">
+                  </div>
+                 </div>
+                 <meta content="https://6krokow.pl/urzedy-panstwowe/02/01/05/Osiecznica/" itemprop="url">
+                  <meta content="6krokow.pl" itemprop="author">
+                   <meta content="6krokow.pl" itemprop="publisher">
+                    <meta content="Wyszukiwarka urzêdów - szukaj urzêdu odpowiedniego dla Twojej miejscowoœci. ZUS, Urz¹d Skarbowy, Gmina, Powiat, Urz¹d wojewódzki, Urz¹d marsza³kowski, Urz¹d statystyczny, Urz¹d pracy." itemprop="headline">
+                     <h1 itemprop="name">
+                      Wyszukiwarka urzêdów pañstwowych
+                     </h1>
+                     <div class="social-container">
+                      <div class="g-plusone">
+                      </div>
+                      <div class="fb-buttons">
+                       <iframe allowtransparency="true" frameborder="0" height="30" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F6krokowpl-474379736073867%2F%3Ffref%3Dts&amp;width=168&amp;layout=button_count&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=true&amp;height=46&amp;appId" style="border:none;overflow:hidden" width="190">
+                       </iframe>
+                      </div>
+                     </div>
+                     <div id="szukaj">
+                      <form action="/urzedy-panstwowe/" method="post" name="formsearch">
+                       <fieldset>
+                        <label for="miejscowosc">
+                         Szukaj urzêdu odpowiedniego dla Twojej miejscowoœci:
+                        </label>
+                        <input id="miejscowosc" name="miejscowosc" placeholder="Miejscowoœæ" type="text" value="">
+                         <select name="wojewodztwo">
+                          <option disabled="" selected="" value="">
+                           Województwo
+                          </option>
+                          <option value="02">
+                           dolnoœl¹skie
+                          </option>
+                          <option value="04">
+                           kujawsko-pomorskie
+                          </option>
+                          <option value="06">
+                           lubelskie
+                          </option>
+                          <option value="08">
+                           lubuskie
+                          </option>
+                          <option value="10">
+                           ³ódzkie
+                          </option>
+                          <option value="12">
+                           ma³opolskie
+                          </option>
+                          <option value="14">
+                           mazowieckie
+                          </option>
+                          <option value="16">
+                           opolskie
+                          </option>
+                          <option value="18">
+                           podkarpackie
+                          </option>
+                          <option value="20">
+                           podlaskie
+                          </option>
+                          <option value="22">
+                           pomorskie
+                          </option>
+                          <option value="24">
+                           œl¹skie
+                          </option>
+                          <option value="26">
+                           œwiêtokrzyskie
+                          </option>
+                          <option value="28">
+                           warmiñsko-mazurskie
+                          </option>
+                          <option value="30">
+                           wielkopolskie
+                          </option>
+                          <option value="32">
+                           zachodniopomorskie
+                          </option>
+                         </select>
+                         <input name="search" type="hidden" value="1"/>
+                         <input name="submit" type="submit" value="Wyszukaj ›"/>
+                        </input>
+                       </fieldset>
+                      </form>
+                      <div id="ilosc">
+                       Znaleziono:
+                       <strong>
+                        1
+                       </strong>
+                       miejscowoœci pasuj¹cych do zapytania.
+                      </div>
+                      <div id="szukajWyniki">
+                       <h3>
+                        Wyszukiwana miejscowoœæ:
+                        <b>
+                         Osiecznica
+                        </b>
+                       </h3>
+                       <div id="przyporzadkowanie">
+                        <span>
+                         województwo:
+                        </span>
+                        <a href="/urzedy-panstwowe/lista/02/">
+                         dolnoœl¹skie
+                        </a>
+                        <span>
+                         , powiat:
+                        </span>
+                        boles³awiecki
+                        <span>
+                         , rodzaj:
+                        </span>
+                        gmina wiejska
+                       </div>
+                       <iframe allowfullscreen="" frameborder="0" height="500" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDHO6htzHf8M6gOyuzDAAhbHWK2aUAJTWI&amp;q=Urz¹d+Gminy+Osiecznica," style="float:right; border:0" width="600">
+                       </iframe>
+                       <h2>
+                        Urz¹d Gminy Osiecznica
+                       </h2>
+                       <span>
+                        ulica:
+                       </span>
+                       Lubañska 43
+                       <br>
+                        <span>
+                         miejscowoœæ:
+                        </span>
+                        59-724 Osiecznica (poczta: Osiecznica)
+                        <br>
+                         <span>
+                          telefon:
+                         </span>
+                         (75) 731-21-07,
+                         <br>
+                          <span>
+                           fax:
+                          </span>
+                          (75) 731-21-48
+                          <br>
+                           <span>
+                            email:
+                           </span>
+                           info@osiecznica.ug.gov.pl
+                           <br>
+                            <span>
+                             www:
+                            </span>
+                            <a href="http://www.osiecznica.ug.gov.pl" rel="nofollow">
+                             www.osiecznica.ug.gov.pl
+                            </a>
+                            <br>
+                             <h2>
+                              Starostwo Powiatowe w Boles³awcu
+                             </h2>
+                             <span>
+                              ulica:
+                             </span>
+                             pl. Marsza³ka Józefa Pi³sudskiego  2
+                             <br>
+                              <span>
+                               miejscowoœæ:
+                              </span>
+                              59-700 Boles³awiec (poczta: Boles³awiec)
+                              <br>
+                               <span>
+                                telefon:
+                               </span>
+                               (75) 732-32-58,
+                               <br>
+                                <span>
+                                 fax:
+                                </span>
+                                (75) 732-32-50
+                                <br>
+                                 <span>
+                                  email:
+                                 </span>
+                                 biuro@powiatboleslawiecki.pl
+                                 <br>
+                                  <span>
+                                   www:
+                                  </span>
+                                  <a href="http://www.powiatboleslawiecki.pl" rel="nofollow">
+                                   www.powiatboleslawiecki.pl
+                                  </a>
+                                  <br>
+                                   <h2>
+                                    Urz¹d Marsza³kowski Województwa Dolnoœl¹skiego
+                                   </h2>
+                                   <span>
+                                    ulica:
+                                   </span>
+                                   Wybrze¿e Juliusza S³owackiego 12,-14
+                                   <br>
+                                    <span>
+                                     miejscowoœæ:
+                                    </span>
+                                    50-411 Wroc³aw (poczta: Wroc³aw)
+                                    <br>
+                                     <span>
+                                      telefon:
+                                     </span>
+                                     (71) 776-90-53,
+                                     <br>
+                                      <span>
+                                       fax:
+                                      </span>
+                                      (71) 776-90-53
+                                      <br>
+                                       <span>
+                                        email:
+                                       </span>
+                                       umwd@dolnyslask.pl
+                                       <br>
+                                        <span>
+                                         www:
+                                        </span>
+                                        <a href="http://www.umwd.pl" rel="nofollow">
+                                         www.umwd.pl
+                                        </a>
+                                        <br>
+                                         <h2>
+                                          Urz¹d Statystyczny we Wroc³awiu
+                                         </h2>
+                                         <span>
+                                          ulica:
+                                         </span>
+                                         O³awska 31
+                                         <br>
+                                          <span>
+                                           miejscowoœæ:
+                                          </span>
+                                          50-950 Wroc³aw
+                                          <br>
+                                           <span>
+                                            telefon:
+                                           </span>
+                                           +48 71 3716 300
+                                           <br>
+                                            <span>
+                                             fax:
+                                            </span>
+                                            +48 71 3716 360
+                                            <br>
+                                             <span>
+                                              email:
+                                             </span>
+                                             sekretariatuswro@stat.gov.pl
+                                             <br>
+                                              <span>
+                                               www:
+                                              </span>
+                                              <a href="http://wroclaw.stat.gov.pl" rel="nofollow">
+                                               wroclaw.stat.gov.pl
+                                              </a>
+                                              <br>
+                                               <span>
+                                                Godziny pracy:
+                                               </span>
+                                               poniedzia³ek-pi¹tek 7.15-15.15
+                                               <br>
+                                                <br>
+                                                 <div class="szukajWynikiBg">
+                                                  <div class="clear">
+                                                  </div>
+                                                  <div class="szukajBox">
+                                                   <h2>
+                                                    Powiatowy Urz¹d Pracy
+                                                   </h2>
+                                                   <span>
+                                                    ulica:
+                                                   </span>
+                                                   Obroñców Helu 10
+                                                   <br>
+                                                    <span>
+                                                     miejscowoœæ:
+                                                    </span>
+                                                    59-700 Boles³awiec
+                                                    <br>
+                                                     <span>
+                                                      telefon:
+                                                     </span>
+                                                     (75) 7326601
+                                                     <br>
+                                                      <span>
+                                                       fax:
+                                                      </span>
+                                                      <br>
+                                                       <span>
+                                                        e-mail:
+                                                       </span>
+                                                       wrbo@praca.gov.pl
+                                                       <br/>
+                                                      </br>
+                                                     </br>
+                                                    </br>
+                                                   </br>
+                                                  </div>
+                                                  <div class="clear">
+                                                  </div>
+                                                 </div>
+                                                 <div class="clear">
+                                                 </div>
+                                                 <div class="szukajWynikiBg">
+                                                  <div class="szukajBox">
+                                                   <h2>
+                                                    Urz¹d Skarbowy w Boles³awcu
+                                                   </h2>
+                                                   <span>
+                                                    ulica:
+                                                   </span>
+                                                   Garncarska 10
+                                                   <br>
+                                                    <span>
+                                                     miejscowoœæ:
+                                                    </span>
+                                                    59-700 Boles³awiec
+                                                    <br>
+                                                     <span>
+                                                      telefon:
+                                                     </span>
+                                                     (75) 646-52-00
+                                                     <br>
+                                                      <span>
+                                                       fax:
+                                                      </span>
+                                                      (75) 646-52-01
+                                                      <br>
+                                                       <span>
+                                                        e-mail:
+                                                       </span>
+                                                       us0202@ds.mofnet.gov.pl
+                                                       <br/>
+                                                      </br>
+                                                     </br>
+                                                    </br>
+                                                   </br>
+                                                  </div>
+                                                  <div class="clear">
+                                                  </div>
+                                                 </div>
+                                                </br>
+                                               </br>
+                                              </br>
+                                             </br>
+                                            </br>
+                                           </br>
+                                          </br>
+                                         </br>
+                                        </br>
+                                       </br>
+                                      </br>
+                                     </br>
+                                    </br>
+                                   </br>
+                                  </br>
+                                 </br>
+                                </br>
+                               </br>
+                              </br>
+                             </br>
+                            </br>
+                           </br>
+                          </br>
+                         </br>
+                        </br>
+                       </br>
+                      </div>
+                      <div id="wojFooter">
+                       Województwa:
+                       <a href="/urzedy-panstwowe/lista/02/">
+                        dolnoœl¹skie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/04/">
+                        kujawsko-pomorskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/06/">
+                        lubelskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/08/">
+                        lubuskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/10/">
+                        ³ódzkie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/12/">
+                        ma³opolskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/14/">
+                        mazowieckie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/16/">
+                        opolskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/18/">
+                        podkarpackie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/20/">
+                        podlaskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/22/">
+                        pomorskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/24/">
+                        œl¹skie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/26/">
+                        œwiêtokrzyskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/28/">
+                        warmiñsko-mazurskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/30/">
+                        wielkopolskie
+                       </a>
+                       ,
+                       <a href="/urzedy-panstwowe/lista/32/">
+                        zachodniopomorskie
+                       </a>
+                       .
+                      </div>
+                     </div>
+                    </meta>
+                   </meta>
+                  </meta>
+                 </meta>
+                </article>
+               </div>
+               <div class="clear">
+               </div>
+              </div>
+              <div id="listaPodradnikow">
+               <div class="site">
+                <h3>
+                 Nasze poradniki:
+                </h3>
+                <div class="lbox">
+                 <a href="/z-czym-wiaze-sie-rozpoczecie-wlasnej-dzialalnosci-gospodarczej/">
+                  <img alt="Plusy i minusy, czyli z czym wi¹¿e siê rozpoczêcie w³asnej dzia³alnoœci gospodarczej" src="/img/site/poradnikMin-01.jpg">
+                   <h5>
+                    Plusy i minusy, czyli z czym wi¹¿e siê rozpoczêcie w³asnej dzia³alnoœci gospodarczej
+                   </h5>
+                  </img>
+                 </a>
+                </div>
+                <div class="lbox">
+                 <a href="/planujesz-zalozyc-firme-opracuj-model-biznesowy/">
+                  <img alt="Planujesz za³o¿yæ firmê - opracuj model biznesowy" src="/img/site/poradnikMin-02.jpg">
+                   <h5>
+                    Planujesz za³o¿yæ firmê - opracuj model biznesowy
+                   </h5>
+                  </img>
+                 </a>
+                </div>
+                <div class="lbox">
+                 <a href="/jak-zalozyc-wlasna-firme-zakladanie-dzialalnosci-gospodarczej-krok-po-kroku/">
+                  <img alt="Jak za³o¿yæ w³asn¹ firmê - zak³adanie dzia³alnoœci gospodarczej krok po kroku" src="/img/site/poradnikMin-03.jpg">
+                   <h5>
+                    Jak za³o¿yæ w³asn¹ firmê - zak³adanie dzia³alnoœci gospodarczej krok po kroku
+                   </h5>
+                  </img>
+                 </a>
+                </div>
+                <div class="lbox">
+                 <a href="/jak-skutecznie-sprzedawac-poradnik-krok-po-kroku/">
+                  <img alt="Jak skutecznie sprzedawaæ - poradnik krok po kroku" src="/img/site/poradnikMin-05.jpg">
+                   <h5>
+                    Jak skutecznie sprzedawaæ - poradnik krok po kroku
+                   </h5>
+                  </img>
+                 </a>
+                </div>
+                <div class="lbox">
+                 <a href="/skuteczna-windykacja-naleznosci/">
+                  <img alt="Skuteczna windykacja nale¿noœci, czyli jak odzyskaæ pieni¹dze od d³u¿nika" src="/img/site/poradnikMin-06.jpg">
+                   <h5>
+                    Skuteczna windykacja nale¿noœci, czyli jak odzyskaæ pieni¹dze od d³u¿nika
+                   </h5>
+                  </img>
+                 </a>
+                </div>
+                <div class="clear">
+                </div>
+               </div>
+              </div>
+              <!-- <div class="newsletter subpagenl">
+	<div class="statement"></div>
+	<h2>Newsletter</h2>
+	<input type="email" name="newsletter" value="" placeholder="Podaj e-mail">
+	<button id="newsletter" class="save">Zapisz</button>
+	<div class="clearfix"></div>
+	<a href="/unsubscribe/" class="unsubscribe">Chcesz siê wypisaæ z newslettera? Kliknij tutaj!</a>
+</div>
+		 -->
+              <footer id="footer">
+               <div class="site">
+                <div class="social-icons" style="">
+                 <a href="https://www.facebook.com/6krokowpl-474379736073867/" rel="nofollow" target="_blank">
+                  <img alt="Nasz facebook" height="48" src="/img/site/facebook.png" width="48"/>
+                 </a>
+                </div>
+                <div id="footerInfo">
+                 2015 © PROMERO Dariusz Setlak. Wszelkie prawa zastrze¿one. Autorzy serwisu
+                 <a href="http://6krokow.pl">
+                  6krokow.pl
+                 </a>
+                 nie bior¹ odpowiedzialnoœci za ewentualne decyzje podjête pod wp³ywem informacji i porad zawartych na tej stronie. Wszelkie nazwy, logotypy i marki handlowe pojawiaj¹ce siê na stronach serwisu 6krokow.pl s¹ wykorzystywane wy³¹cznie w celach informacyjnych, a autorzy nie roszcz¹ sobie do nich ¿adnych praw. Jeœli masz pytania lub sugestie zapraszam do
+                 <a href="/kontakt/">
+                  kontaktu
+                 </a>
+                 .
+                 <a href="/polityka-prywatnosci/">
+                  Polityka prywatnoœci
+                 </a>
+                 .
+                </div>
+               </div>
+              </footer>
+              <script src="/js/jquery.cookie.js" type="text/javascript">
+              </script>
+              <script type="text/javascript">
+               $(document).ready(function(){
+
+		
+		$('#newsletter').on('click', function() {
+			var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/,
+			mail = $("input[name$='newsletter']").val();
+
+			if (regex.test(mail)) {
+			    $.ajax({
+			        type : "POST",
+			        url : "/scripts/newsletter.php",
+			        data: 'newsletter='+mail,
+			        success: function(data) {
+						$(".statement").html('<div class="ok">Zosta³eœ dodany do newslettera!</div>');
+					}
+			    });
+		    } else {
+		   		$(".statement").html('<div class="error">Niepoprawny adres e-mail!</div>');
+		   	}
+		}); 
+		
+	    if ($.cookie('acceptOurCookies') == 'yes') { 
+	        $('#cookie-info').css('display','none'); 
+	    }
+	    $('.accept_cookie').click(function(){
+	        $.cookie('acceptOurCookies', 'yes', { expires: 356, path: '/' });
+	        $('#cookie-info').fadeOut(300);
+	    });
+
+
+	    var winHeight = $(window).height(), 
+	        docHeight = $(document).height(),
+	        progressBar = $('progress'),
+	        max, value;
+
+	    /* Set the max scrollable area */
+	    max = docHeight - winHeight;
+	    progressBar.attr('max', max);
+
+	    $(document).on('scroll', function(){
+	       value = $(window).scrollTop();
+	       progressBar.attr('value', value);
+	    });
+	});
+              </script>
+              <div id="cookie-info">
+               Ta strona korzysta z ciasteczek (cookies).
+               <a class="accept_cookie" href="#">
+                OK, rozumiem
+               </a>
+               <a class="more_cookie" href="/polityka-prywatnosci/">
+                Wiêcej informacji
+               </a>
+              </div>
+             </body>
+            </link>
+           </link>
+          </link>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+</html>
+
